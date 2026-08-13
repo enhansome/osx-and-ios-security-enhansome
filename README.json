@@ -1,0 +1,463 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "osquery",
+          "description": "Cross-platform tool for data collection and forensic analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T01:37:58Z",
+            "owner": "osquery",
+            "repo": "osquery",
+            "stars": 23457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Santa",
+          "description": "Binary whitelisting/blacklisting system.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C++",
+            "last_commit": "2025-02-05T13:23:36Z",
+            "owner": "google",
+            "repo": "santa",
+            "stars": 4509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSX auditor",
+          "description": "Forensic analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-27T22:34:25Z",
+            "owner": "jipegit",
+            "repo": "OSXAuditor",
+            "stars": 3135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malimite",
+          "description": "iOS and macOS Decompiler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-08-26T05:59:43Z",
+            "owner": "LaurieWired",
+            "repo": "Malimite",
+            "stars": 3070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSX collector",
+          "description": "Forensic analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-06-19T15:40:49Z",
+            "owner": "YelpArchive",
+            "repo": "osxcollector",
+            "stars": 1894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stronghold",
+          "description": "Easily configure macOS security settings from the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-24T07:31:58Z",
+            "owner": "alichtman",
+            "repo": "stronghold",
+            "stars": 1191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mac_apt",
+          "description": "macOS Artifact Parsing Tool for forensic analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T09:14:30Z",
+            "owner": "ydkhatri",
+            "repo": "mac_apt",
+            "stars": 1072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macOS (& iOS) Artifact Parsing Tool",
+          "description": "mac_apt is a DFIR (Digital Forensics and Incident Response) tool to process Mac computer full disk images (or live machines) and extract data/metadata useful for forensic investigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T09:14:30Z",
+            "owner": "ydkhatri",
+            "repo": "mac_apt",
+            "stars": 1072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mach inject",
+          "description": "Inter process code injection for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-11-08T17:22:55Z",
+            "owner": "rentzsch",
+            "repo": "mach_inject",
+            "stars": 833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIDAS - macOS Intrusion Detection Analysis System. Abandoned.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2015-09-23T15:45:08Z",
+            "owner": "etsy",
+            "repo": "MIDAS",
+            "stars": 826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swiftGuard",
+          "description": "A lightweight app that safeguards your System's USB Ports from any Unauthorized Access and performs various countermeasures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-10T15:59:04Z",
+            "owner": "Lennolium",
+            "repo": "swiftGuard",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pareto Security",
+          "description": "A MenuBar app to automatically audit your Mac for basic security hygiene.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-05T12:20:03Z",
+            "owner": "ParetoSecurity",
+            "repo": "pareto-mac",
+            "stars": 449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crashwalk",
+          "description": "Bucket and triage on-disk crashes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-10-19T18:08:25Z",
+            "owner": "bnagy",
+            "repo": "crashwalk",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mac4n6",
+          "description": "A collection of macOS and iOS forensic artifacts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-11T10:59:21Z",
+            "owner": "pstirparo",
+            "repo": "mac4n6",
+            "stars": 346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PassiveFuzzFrameworks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-10-18T10:29:47Z",
+            "owner": "SilverMoonSecurity",
+            "repo": "PassiveFuzzFrameworkOSX",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lockpaw",
+          "description": "macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-10T12:38:26Z",
+            "owner": "sorkila",
+            "repo": "lockpaw",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raccoon",
+          "description": "CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T05:47:54Z",
+            "owner": "thousandflowers",
+            "repo": "Raccoon",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Masochist",
+          "description": "Framework for creating XNU-based rootkits.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2015-01-03T05:43:15Z",
+            "owner": "squiffy",
+            "repo": "Masochist",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fort",
+          "description": "CLI to audit, fix, and prove macOS endpoint security. 15 checks, auto-remediation, SOC 2 evidence report. Single binary, no agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-09T14:13:37Z",
+            "owner": "djadmin",
+            "repo": "fort",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Task vaccine",
+          "description": "Similar to mach inject.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-03-02T11:43:46Z",
+            "owner": "rodionovd",
+            "repo": "task_vaccine",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mach-O diff",
+          "description": "Mach-o diffing tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-07-16T00:32:30Z",
+            "owner": "samdmarshall",
+            "repo": "machodiff",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XGuardian scanner",
+          "description": "Security Scanner for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2015-10-04T13:12:47Z",
+            "owner": "openscanner",
+            "repo": "XGuardian",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mana Security - Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated. Looks abandoned.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T14:51:50Z",
+            "owner": "manasecurity",
+            "repo": "mana-security-app",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "macOS Security"
+    },
+    {
+      "description": "A collection of iOS security-related resources",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LibiMobileDevice",
+          "description": "A cross-platform protocol library to communicate with iOS devices",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-10T07:52:18Z",
+            "owner": "libimobiledevice",
+            "repo": "libimobiledevice",
+            "stars": 8101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Themis",
+          "description": "a multi-platform programming library for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Recommended by OWASP MASVS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-24T14:01:56Z",
+            "owner": "cossacklabs",
+            "repo": "themis",
+            "stars": 1971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Needle",
+          "description": "iOS App Pentesting Tool",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-10-25T16:17:16Z",
+            "owner": "ReversecLabs",
+            "repo": "needle",
+            "stars": 1400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DVIA v2",
+          "description": "Damn Vulnerable iOS App v2 for learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-03-29T08:02:06Z",
+            "owner": "prateek147",
+            "repo": "DVIA-v2",
+            "stars": 1107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IDB",
+          "description": "iOS App Security Assessment Tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-03-25T07:53:46Z",
+            "owner": "dmayer",
+            "repo": "idb",
+            "stars": 957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iRET",
+          "description": "iOS Reverse Engineering Toolkit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-06-14T20:10:18Z",
+            "owner": "S3Jensen",
+            "repo": "iRET",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iMessage Fuzzing",
+          "description": "iMessage fuzzing tools from Google's Project Zero",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-12-28T13:14:17Z",
+            "owner": "googleprojectzero",
+            "repo": "iOS-messaging-tools",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imobax",
+          "description": "iOS Mobile Backup Extractor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-05-28T17:18:49Z",
+            "owner": "Siguza",
+            "repo": "imobax",
+            "stars": 203
+          }
+        }
+      ],
+      "title": "iOS Security"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:28.179Z",
+    "original_repository": "ashishb/osx-and-ios-security-awesome",
+    "original_repository_sha": "34da6ebdddb55da7dc07f393e54a801ec28b2b82",
+    "enhanced_repository": "enhansome/osx-and-ios-security-enhansome",
+    "enhanced_repository_description": null,
+    "title": "Awesome macOS and iOS Security Related Tools with stars"
+  }
+}
