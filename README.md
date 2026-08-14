@@ -1,9 +1,9 @@
 # Awesome macOS and iOS Security Related Tools with stars
 
-[![Test](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/test.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/test.yaml) ⭐ 1,714 | 🐛 0 | 🌐 Shell | 📅 2026-08-03
-[![Lint Markdown](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-markdown.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-markdown.yaml) ⭐ 1,714 | 🐛 0 | 🌐 Shell | 📅 2026-08-03
-[![Lint Shell scripts](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-shell-script.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-shell-script.yaml) ⭐ 1,714 | 🐛 0 | 🌐 Shell | 📅 2026-08-03
-[![Lint YAML](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-yaml.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-yaml.yaml) ⭐ 1,714 | 🐛 0 | 🌐 Shell | 📅 2026-08-03
+[![Test](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/test.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/test.yaml) ⭐ 1,715 | 🐛 0 | 🌐 Shell | 📅 2026-08-03
+[![Lint Markdown](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-markdown.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-markdown.yaml) ⭐ 1,715 | 🐛 0 | 🌐 Shell | 📅 2026-08-03
+[![Lint Shell scripts](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-shell-script.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-shell-script.yaml) ⭐ 1,715 | 🐛 0 | 🌐 Shell | 📅 2026-08-03
+[![Lint YAML](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-yaml.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-yaml.yaml) ⭐ 1,715 | 🐛 0 | 🌐 Shell | 📅 2026-08-03
 
 ![GitHub contributors](https://img.shields.io/github/contributors/ashishb/osx-and-ios-security-awesome)
 
@@ -19,23 +19,23 @@
 
 ## macOS Security
 
-1. [osquery](https://github.com/facebook/osquery) ⭐ 23,457 | 🐛 625 | 🌐 C++ | 📅 2026-08-13 - Cross-platform tool for data collection and forensic analysis.
+1. [osquery](https://github.com/facebook/osquery) ⭐ 23,459 | 🐛 618 | 🌐 C++ | 📅 2026-08-13 - Cross-platform tool for data collection and forensic analysis.
 2. [Santa](https://github.com/google/santa) ⚠️ Archived - Binary whitelisting/blacklisting system.
 3. [OSX auditor](https://github.com/jipegit/OSXAuditor) ⭐ 3,135 | 🐛 8 | 🌐 JavaScript | 📅 2020-07-27 - Forensic analysis.
-4. [Malimite](https://github.com/LaurieWired/Malimite) ⭐ 3,070 | 🐛 14 | 🌐 Java | 📅 2025-08-26 - iOS and macOS Decompiler
+4. [Malimite](https://github.com/LaurieWired/Malimite) ⭐ 3,071 | 🐛 14 | 🌐 Java | 📅 2025-08-26 - iOS and macOS Decompiler
 5. [OSX collector](https://github.com/Yelp/OSXCollector) ⚠️ Archived - Forensic analysis.
 6. [stronghold](https://github.com/alichtman/stronghold) ⭐ 1,191 | 🐛 10 | 🌐 Python | 📅 2025-02-24 - Easily configure macOS security settings from the terminal.
 7. [mac\_apt](https://github.com/ydkhatri/mac_apt) ⭐ 1,072 | 🐛 7 | 🌐 Python | 📅 2026-07-23 - macOS Artifact Parsing Tool for forensic analysis.
 8. [macOS (& iOS) Artifact Parsing Tool](https://github.com/ydkhatri/mac_apt) ⭐ 1,072 | 🐛 7 | 🌐 Python | 📅 2026-07-23 - mac\_apt is a DFIR (Digital Forensics and Incident Response) tool to process Mac computer full disk images (or live machines) and extract data/metadata useful for forensic investigation.
 9. [Mach inject](https://github.com/rentzsch/mach_inject) ⭐ 833 | 🐛 15 | 🌐 C | 📅 2016-11-08 - Inter process code injection for macOS.
 10. ~~[MIDAS](https://github.com/etsy/MIDAS) ⚠️ Archived - macOS Intrusion Detection Analysis System.~~ Abandoned.
-11. [swiftGuard](https://github.com/Lennolium/swiftGuard) ⭐ 468 | 🐛 6 | 🌐 Python | 📅 2025-02-10 - A lightweight app that safeguards your System's USB Ports from any Unauthorized Access and performs various countermeasures.
-12. [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) ⭐ 449 | 🐛 13 | 🌐 Swift | 📅 2026-08-05 - A MenuBar app to automatically audit your Mac for basic security hygiene.
+11. [swiftGuard](https://github.com/Lennolium/swiftGuard) ⭐ 467 | 🐛 6 | 🌐 Python | 📅 2025-02-10 - A lightweight app that safeguards your System's USB Ports from any Unauthorized Access and performs various countermeasures.
+12. [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) ⭐ 448 | 🐛 13 | 🌐 Swift | 📅 2026-08-05 - A MenuBar app to automatically audit your Mac for basic security hygiene.
 13. [Crashwalk](https://github.com/bnagy/crashwalk) ⭐ 361 | 🐛 10 | 🌐 Go | 📅 2024-10-19 - Bucket and triage on-disk crashes
 14. [Mac4n6](https://github.com/pstirparo/mac4n6) ⭐ 346 | 🐛 0 | 🌐 Python | 📅 2021-11-11 - A collection of macOS and iOS forensic artifacts.
 15. [PassiveFuzzFrameworks](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX) ⭐ 229 | 🐛 1 | 🌐 C | 📅 2017-10-18
 16. [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 143 | 🐛 7 | 🌐 Swift | 📅 2026-08-10 - macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
-17. [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-08-12 - CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
+17. [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-08-13 - CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 18. [Masochist](https://github.com/squiffy/Masochist) ⚠️ Archived - Framework for creating XNU-based rootkits.
 19. [fort](https://github.com/djadmin/fort) ⭐ 77 | 🐛 0 | 🌐 Go | 📅 2026-07-09 - CLI to audit, fix, and prove macOS endpoint security. 15 checks, auto-remediation, SOC 2 evidence report. Single binary, no agent.
 20. [Task vaccine](https://github.com/rodionovd/task_vaccine) ⭐ 55 | 🐛 4 | 🌐 C | 📅 2015-03-02 - Similar to mach inject.
@@ -61,10 +61,10 @@
 
 A collection of iOS security-related resources
 
-1. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,101 | 🐛 840 | 🌐 C | 📅 2026-06-10 - A cross-platform protocol library to communicate with iOS devices
+1. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,104 | 🐛 840 | 🌐 C | 📅 2026-06-10 - A cross-platform protocol library to communicate with iOS devices
 2. [Themis](https://github.com/cossacklabs/themis) ⭐ 1,971 | 🐛 31 | 🌐 C | 📅 2026-04-24 - a multi-platform programming library for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Recommended by OWASP MASVS.
 3. [Needle](https://github.com/mwrlabs/needle) ⚠️ Archived - iOS App Pentesting Tool
-4. [DVIA v2](https://github.com/prateek147/DVIA-v2) ⭐ 1,107 | 🐛 9 | 🌐 Swift | 📅 2024-03-29 - Damn Vulnerable iOS App v2 for learning
+4. [DVIA v2](https://github.com/prateek147/DVIA-v2) ⭐ 1,108 | 🐛 9 | 🌐 Swift | 📅 2024-03-29 - Damn Vulnerable iOS App v2 for learning
 5. [IDB](https://github.com/dmayer/idb) ⭐ 957 | 🐛 36 | 🌐 Ruby | 📅 2023-03-25 - iOS App Security Assessment Tool
 6. [iRET](https://github.com/S3Jensen/iRET) ⭐ 423 | 🐛 22 | 🌐 Shell | 📅 2024-06-14 - iOS Reverse Engineering Toolkit
 7. [iMessage Fuzzing](https://github.com/googleprojectzero/iOS-messaging-tools) ⚠️ Archived - iMessage fuzzing tools from Google's Project Zero
@@ -96,4 +96,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
