@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T16:03:41Z",
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23459
+            "stars": 23462
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2025-08-26T05:59:43Z",
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3071
+            "stars": 3070
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-07-23T09:14:30Z",
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1072
+            "stars": 1074
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-07-23T09:14:30Z",
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1072
+            "stars": 1074
           }
         },
         {
@@ -235,7 +235,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T05:49:57Z",
+            "last_commit": "2026-08-14T05:47:59Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
@@ -333,6 +333,20 @@
       "items": [
         {
           "node_type": "item",
+          "title": "objection",
+          "description": "A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T13:40:22Z",
+            "owner": "sensepost",
+            "repo": "objection",
+            "stars": 9314
+          }
+        },
+        {
+          "node_type": "item",
           "title": "LibiMobileDevice",
           "description": "A cross-platform protocol library to communicate with iOS devices",
           "children": [],
@@ -361,8 +375,8 @@
         },
         {
           "node_type": "item",
-          "title": "Needle",
-          "description": "iOS App Pentesting Tool",
+          "title": "Needle - iOS App Pentesting Tool. Abandoned in 2025. The devs recommend using objection",
+          "description": "instead",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -398,7 +412,7 @@
             "last_commit": "2023-03-25T07:53:46Z",
             "owner": "dmayer",
             "repo": "idb",
-            "stars": 957
+            "stars": 956
           }
         },
         {
@@ -453,9 +467,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:56:18.884Z",
+    "last_updated": "2026-08-15T02:43:46.614Z",
     "original_repository": "ashishb/osx-and-ios-security-awesome",
-    "original_repository_sha": "34da6ebdddb55da7dc07f393e54a801ec28b2b82",
+    "original_repository_sha": "58da16d505532dc86b5b57c8f06cdb28b7defa7c",
     "enhanced_repository": "enhansome/osx-and-ios-security-enhansome",
     "enhanced_repository_description": null,
     "title": "Awesome macOS and iOS Security Related Tools with stars"
