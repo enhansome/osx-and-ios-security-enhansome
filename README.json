@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T16:03:41Z",
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23468
+            "stars": 23469
           }
         },
         {
@@ -33,6 +33,20 @@
         },
         {
           "node_type": "item",
+          "title": "Malimite",
+          "description": "iOS and macOS Decompiler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-08-26T05:59:43Z",
+            "owner": "LaurieWired",
+            "repo": "Malimite",
+            "stars": 3152
+          }
+        },
+        {
+          "node_type": "item",
           "title": "OSX auditor",
           "description": "Forensic analysis.",
           "children": [],
@@ -43,20 +57,6 @@
             "owner": "jipegit",
             "repo": "OSXAuditor",
             "stars": 3135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Malimite",
-          "description": "iOS and macOS Decompiler",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-08-26T05:59:43Z",
-            "owner": "LaurieWired",
-            "repo": "Malimite",
-            "stars": 3099
           }
         },
         {
@@ -165,7 +165,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-05T12:20:03Z",
+            "last_commit": "2026-08-17T17:55:06Z",
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
             "stars": 449
@@ -221,7 +221,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-10T12:38:26Z",
+            "last_commit": "2026-08-17T20:08:11Z",
             "owner": "sorkila",
             "repo": "lockpaw",
             "stars": 143
@@ -235,7 +235,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T04:51:29Z",
+            "last_commit": "2026-08-17T05:00:14Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
@@ -342,7 +342,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9319
+            "stars": 9321
           }
         },
         {
@@ -356,7 +356,7 @@
             "last_commit": "2026-06-10T07:52:18Z",
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8108
+            "stars": 8110
           }
         },
         {
@@ -370,7 +370,7 @@
             "last_commit": "2026-04-24T14:01:56Z",
             "owner": "cossacklabs",
             "repo": "themis",
-            "stars": 1971
+            "stars": 1972
           }
         },
         {
@@ -467,7 +467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:52:38.520Z",
+    "last_updated": "2026-08-18T02:47:58.057Z",
     "original_repository": "ashishb/osx-and-ios-security-awesome",
     "original_repository_sha": "58da16d505532dc86b5b57c8f06cdb28b7defa7c",
     "enhanced_repository": "enhansome/osx-and-ios-security-enhansome",
