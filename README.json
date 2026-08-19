@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T16:03:41Z",
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23469
+            "stars": 23475
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2025-08-26T05:59:43Z",
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3152
+            "stars": 3163
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2019-06-19T15:40:49Z",
             "owner": "YelpArchive",
             "repo": "osxcollector",
-            "stars": 1894
+            "stars": 1895
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-08-17T17:55:06Z",
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
-            "stars": 449
+            "stars": 450
           }
         },
         {
@@ -221,10 +221,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-17T20:08:11Z",
+            "last_commit": "2026-08-18T05:32:38Z",
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 143
+            "stars": 144
           }
         },
         {
@@ -235,7 +235,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-17T05:00:14Z",
+            "last_commit": "2026-08-18T22:40:41Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
@@ -342,7 +342,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9321
+            "stars": 9325
           }
         },
         {
@@ -356,7 +356,7 @@
             "last_commit": "2026-06-10T07:52:18Z",
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8110
+            "stars": 8115
           }
         },
         {
@@ -370,7 +370,7 @@
             "last_commit": "2026-04-24T14:01:56Z",
             "owner": "cossacklabs",
             "repo": "themis",
-            "stars": 1972
+            "stars": 1973
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2024-06-14T20:10:18Z",
             "owner": "S3Jensen",
             "repo": "iRET",
-            "stars": 423
+            "stars": 422
           }
         },
         {
@@ -467,7 +467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:47:58.057Z",
+    "last_updated": "2026-08-19T02:49:51.340Z",
     "original_repository": "ashishb/osx-and-ios-security-awesome",
     "original_repository_sha": "58da16d505532dc86b5b57c8f06cdb28b7defa7c",
     "enhanced_repository": "enhansome/osx-and-ios-security-enhansome",
