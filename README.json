@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22394357,
             "language": "C++",
-            "last_commit": "2026-08-13T16:03:41Z",
+            "last_commit": "2026-08-19T18:14:44Z",
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23475
+            "stars": 23477
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 25009012,
             "language": "Objective-C++",
             "last_commit": "2025-02-05T13:23:36Z",
             "owner": "google",
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 728914226,
             "language": "Java",
             "last_commit": "2025-08-26T05:59:43Z",
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3163
+            "stars": 3166
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10801048,
             "language": "JavaScript",
             "last_commit": "2020-07-27T22:34:25Z",
             "owner": "jipegit",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 22615096,
             "language": "Python",
             "last_commit": "2019-06-19T15:40:49Z",
             "owner": "YelpArchive",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125603504,
             "language": "Python",
             "last_commit": "2025-02-24T07:31:58Z",
             "owner": "alichtman",
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101311218,
             "language": "Python",
             "last_commit": "2026-07-23T09:14:30Z",
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1075
+            "stars": 1077
           }
         },
         {
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101311218,
             "language": "Python",
             "last_commit": "2026-07-23T09:14:30Z",
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1075
+            "stars": 1077
           }
         },
         {
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5365623,
             "language": "C",
             "last_commit": "2016-11-08T17:22:55Z",
             "owner": "rentzsch",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 14958024,
             "language": null,
             "last_commit": "2015-09-23T15:45:08Z",
             "owner": "etsy",
@@ -150,11 +160,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 694104435,
             "language": "Python",
             "last_commit": "2025-02-10T15:59:04Z",
             "owner": "Lennolium",
             "repo": "swiftGuard",
-            "stars": 467
+            "stars": 468
           }
         },
         {
@@ -164,11 +175,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 385891121,
             "language": "Swift",
             "last_commit": "2026-08-17T17:55:06Z",
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
-            "stars": 450
+            "stars": 451
           }
         },
         {
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32255708,
             "language": "Go",
             "last_commit": "2024-10-19T18:08:25Z",
             "owner": "bnagy",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32288372,
             "language": "Python",
             "last_commit": "2021-11-11T10:59:21Z",
             "owner": "pstirparo",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71976500,
             "language": "C",
             "last_commit": "2017-10-18T10:29:47Z",
             "owner": "SilverMoonSecurity",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1186242047,
             "language": "Swift",
             "last_commit": "2026-08-18T05:32:38Z",
             "owner": "sorkila",
@@ -234,8 +250,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-18T22:40:41Z",
+            "last_commit": "2026-08-19T04:54:16Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 26304830,
             "language": "C",
             "last_commit": "2015-01-03T05:43:15Z",
             "owner": "squiffy",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1245511471,
             "language": "Go",
             "last_commit": "2026-07-09T14:13:37Z",
             "owner": "djadmin",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26587407,
             "language": "C",
             "last_commit": "2015-03-02T11:43:46Z",
             "owner": "rodionovd",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17096427,
             "language": "C",
             "last_commit": "2015-07-16T00:32:30Z",
             "owner": "samdmarshall",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42044714,
             "language": "Swift",
             "last_commit": "2015-10-04T13:12:47Z",
             "owner": "openscanner",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 432181237,
             "language": "JavaScript",
             "last_commit": "2023-01-07T14:51:50Z",
             "owner": "manasecurity",
@@ -338,11 +361,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95770373,
             "language": "Python",
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9325
+            "stars": 9328
           }
         },
         {
@@ -352,11 +376,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8180677,
             "language": "C",
             "last_commit": "2026-06-10T07:52:18Z",
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8115
+            "stars": 8117
           }
         },
         {
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35159920,
             "language": "C",
             "last_commit": "2026-04-24T14:01:56Z",
             "owner": "cossacklabs",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 64016453,
             "language": "Python",
             "last_commit": "2020-10-25T16:17:16Z",
             "owner": "ReversecLabs",
@@ -394,11 +421,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121053724,
             "language": "Swift",
             "last_commit": "2024-03-29T08:02:06Z",
             "owner": "prateek147",
             "repo": "DVIA-v2",
-            "stars": 1108
+            "stars": 1109
           }
         },
         {
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13483186,
             "language": "Ruby",
             "last_commit": "2023-03-25T07:53:46Z",
             "owner": "dmayer",
@@ -422,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18208321,
             "language": "Shell",
             "last_commit": "2024-06-14T20:10:18Z",
             "owner": "S3Jensen",
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 201120928,
             "language": "Python",
             "last_commit": "2019-12-28T13:14:17Z",
             "owner": "googleprojectzero",
@@ -450,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165453863,
             "language": "C",
             "last_commit": "2022-05-28T17:18:49Z",
             "owner": "Siguza",
@@ -459,16 +491,12 @@
         }
       ],
       "title": "iOS Security"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:49:51.340Z",
+    "last_updated": "2026-08-20T02:48:41.867Z",
     "original_repository": "ashishb/osx-and-ios-security-awesome",
+    "original_repository_id": 29182759,
     "original_repository_sha": "58da16d505532dc86b5b57c8f06cdb28b7defa7c",
     "enhanced_repository": "enhansome/osx-and-ios-security-enhansome",
     "enhanced_repository_description": null,
