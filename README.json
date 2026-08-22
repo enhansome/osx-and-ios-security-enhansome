@@ -30,7 +30,7 @@
             "last_commit": "2025-02-05T13:23:36Z",
             "owner": "google",
             "repo": "santa",
-            "stars": 4509
+            "stars": 4511
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-08-26T05:59:43Z",
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3167
+            "stars": 3168
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2019-06-19T15:40:49Z",
             "owner": "YelpArchive",
             "repo": "osxcollector",
-            "stars": 1895
+            "stars": 1894
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 101311218,
             "language": "Python",
-            "last_commit": "2026-07-23T09:14:30Z",
+            "last_commit": "2026-08-21T23:27:52Z",
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1077
+            "stars": 1075
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 101311218,
             "language": "Python",
-            "last_commit": "2026-07-23T09:14:30Z",
+            "last_commit": "2026-08-21T23:27:52Z",
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1077
+            "stars": 1075
           }
         },
         {
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-19T04:54:16Z",
+            "last_commit": "2026-08-21T04:56:25Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
@@ -366,7 +366,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9333
+            "stars": 9335
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-06-10T07:52:18Z",
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8121
+            "stars": 8122
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2024-03-29T08:02:06Z",
             "owner": "prateek147",
             "repo": "DVIA-v2",
-            "stars": 1109
+            "stars": 1110
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:55:04.771Z",
+    "last_updated": "2026-08-22T02:45:50.906Z",
     "original_repository": "ashishb/osx-and-ios-security-awesome",
     "original_repository_id": 29182759,
     "original_repository_sha": "58da16d505532dc86b5b57c8f06cdb28b7defa7c",
