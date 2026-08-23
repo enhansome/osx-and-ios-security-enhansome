@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T18:14:44Z",
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23479
+            "stars": 23482
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-08-26T05:59:43Z",
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3168
+            "stars": 3170
           }
         },
         {
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-21T04:56:25Z",
+            "last_commit": "2026-08-22T04:52:01Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
@@ -381,7 +381,7 @@
             "last_commit": "2026-06-10T07:52:18Z",
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8122
+            "stars": 8123
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2024-03-29T08:02:06Z",
             "owner": "prateek147",
             "repo": "DVIA-v2",
-            "stars": 1110
+            "stars": 1111
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:45:50.906Z",
+    "last_updated": "2026-08-23T02:54:35.339Z",
     "original_repository": "ashishb/osx-and-ios-security-awesome",
     "original_repository_id": 29182759,
     "original_repository_sha": "58da16d505532dc86b5b57c8f06cdb28b7defa7c",
