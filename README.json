@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T18:14:44Z",
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23484
+            "stars": 23486
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-08-26T05:59:43Z",
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3172
+            "stars": 3173
           }
         },
         {
@@ -140,8 +140,8 @@
         },
         {
           "node_type": "item",
-          "title": "MIDAS - macOS Intrusion Detection Analysis System. Abandoned.",
-          "description": null,
+          "title": "MIDAS - macOS Intrusion Detection Analysis System.",
+          "description": "Abandoned.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -237,7 +237,7 @@
             "archived": false,
             "id": 1186242047,
             "language": "Swift",
-            "last_commit": "2026-08-18T05:32:38Z",
+            "last_commit": "2026-08-24T08:59:34Z",
             "owner": "sorkila",
             "repo": "lockpaw",
             "stars": 143
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-23T04:53:53Z",
+            "last_commit": "2026-08-24T05:03:58Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
@@ -335,8 +335,8 @@
         },
         {
           "node_type": "item",
-          "title": "Mana Security - Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated. Looks abandoned.",
-          "description": null,
+          "title": "Mana Security - Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated.",
+          "description": "Looks abandoned.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -381,7 +381,7 @@
             "last_commit": "2026-06-10T07:52:18Z",
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8125
+            "stars": 8126
           }
         },
         {
@@ -401,8 +401,8 @@
         },
         {
           "node_type": "item",
-          "title": "Needle - iOS App Pentesting Tool. Abandoned in 2025. The devs recommend using objection",
-          "description": "instead",
+          "title": "Needle - iOS App Pentesting Tool.",
+          "description": "Abandoned in 2025. The devs recommend using objection instead",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:55:30.805Z",
+    "last_updated": "2026-08-24T14:07:12.987Z",
     "original_repository": "ashishb/osx-and-ios-security-awesome",
     "original_repository_id": 29182759,
     "original_repository_sha": "58da16d505532dc86b5b57c8f06cdb28b7defa7c",
