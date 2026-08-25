@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T18:14:44Z",
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23486
+            "stars": 23517
           }
         },
         {
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-24T05:03:58Z",
+            "last_commit": "2026-08-25T01:46:34Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
@@ -366,7 +366,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9341
+            "stars": 9342
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2024-03-29T08:02:06Z",
             "owner": "prateek147",
             "repo": "DVIA-v2",
-            "stars": 1111
+            "stars": 1112
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:07:12.987Z",
+    "last_updated": "2026-08-25T02:50:47.768Z",
     "original_repository": "ashishb/osx-and-ios-security-awesome",
     "original_repository_id": 29182759,
     "original_repository_sha": "58da16d505532dc86b5b57c8f06cdb28b7defa7c",
