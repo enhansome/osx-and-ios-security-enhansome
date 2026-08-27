@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T16:33:00Z",
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23522
+            "stars": 23524
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-17T17:55:06Z",
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
-            "stars": 451
+            "stars": 453
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-24T08:59:34Z",
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 143
+            "stars": 144
           }
         },
         {
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-25T04:55:59Z",
+            "last_commit": "2026-08-26T04:57:41Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
@@ -366,7 +366,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9344
+            "stars": 9348
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-06-10T07:52:18Z",
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8129
+            "stars": 8135
           }
         },
         {
@@ -494,9 +494,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:56:49.013Z",
-    "original_repository": "ashishb/osx-and-ios-security-awesome",
-    "original_repository_id": 29182759,
+    "last_updated": "2026-08-27T12:15:38.299Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 29182759,
+      "language": "Shell",
+      "last_commit": "2026-08-15T02:27:49Z",
+      "owner": "ashishb",
+      "repo": "osx-and-ios-security-awesome",
+      "stars": 1729
+    },
     "original_repository_sha": "58da16d505532dc86b5b57c8f06cdb28b7defa7c",
     "enhanced_repository": "enhansome/osx-and-ios-security-enhansome",
     "enhanced_repository_description": null,
