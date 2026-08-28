@@ -15,8 +15,9 @@
             "last_commit": "2026-08-25T16:33:00Z",
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23524
-          }
+            "stars": 23526
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "google",
             "repo": "santa",
             "stars": 4511
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2025-08-26T05:59:43Z",
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3174
-          }
+            "stars": 3176
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "jipegit",
             "repo": "OSXAuditor",
             "stars": 3135
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "YelpArchive",
             "repo": "osxcollector",
             "stars": 1894
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "alichtman",
             "repo": "stronghold",
             "stars": 1191
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "ydkhatri",
             "repo": "mac_apt",
             "stars": 1077
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "ydkhatri",
             "repo": "mac_apt",
             "stars": 1077
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "rentzsch",
             "repo": "mach_inject",
             "stars": 832
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "etsy",
             "repo": "MIDAS",
             "stars": 826
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "Lennolium",
             "repo": "swiftGuard",
             "stars": 468
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
             "stars": 453
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "bnagy",
             "repo": "crashwalk",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "pstirparo",
             "repo": "mac4n6",
             "stars": 346
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "SilverMoonSecurity",
             "repo": "PassiveFuzzFrameworkOSX",
             "stars": 229
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -240,8 +255,9 @@
             "last_commit": "2026-08-24T08:59:34Z",
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 144
-          }
+            "stars": 145
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -252,11 +268,12 @@
             "archived": false,
             "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-26T04:57:41Z",
+            "last_commit": "2026-08-27T15:17:38Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "squiffy",
             "repo": "Masochist",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "djadmin",
             "repo": "fort",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "rodionovd",
             "repo": "task_vaccine",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "samdmarshall",
             "repo": "machodiff",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "openscanner",
             "repo": "XGuardian",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "manasecurity",
             "repo": "mana-security-app",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         }
       ],
       "title": "macOS Security"
@@ -367,7 +390,8 @@
             "owner": "sensepost",
             "repo": "objection",
             "stars": 9348
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -381,8 +405,9 @@
             "last_commit": "2026-06-10T07:52:18Z",
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8135
-          }
+            "stars": 8136
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "cossacklabs",
             "repo": "themis",
             "stars": 1973
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "ReversecLabs",
             "repo": "needle",
             "stars": 1401
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "prateek147",
             "repo": "DVIA-v2",
             "stars": 1111
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "dmayer",
             "repo": "idb",
             "stars": 955
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "S3Jensen",
             "repo": "iRET",
             "stars": 422
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "googleprojectzero",
             "repo": "iOS-messaging-tools",
             "stars": 386
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         },
         {
           "node_type": "item",
@@ -487,14 +518,15 @@
             "owner": "Siguza",
             "repo": "imobax",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T13:33:29.287Z"
         }
       ],
       "title": "iOS Security"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:15:38.299Z",
+    "last_updated": "2026-08-28T13:33:29.287Z",
     "original_repository_info": {
       "archived": false,
       "id": 29182759,
