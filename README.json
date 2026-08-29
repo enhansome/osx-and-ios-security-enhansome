@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SQL powered operating system instrumentation, monitoring, and analytics.",
+            "homepage": "https://osquery.io",
             "id": 22394357,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T16:33:00Z",
+            "open_issues": 632,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23526
+            "stars": 23527,
+            "topics": [
+              "hacktoberfest",
+              "intrusion-detection",
+              "monitoring",
+              "security",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -26,12 +37,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A binary authorization and monitoring system for macOS",
+            "homepage": "https://santa.dev",
             "id": 25009012,
             "language": "Objective-C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-05T13:23:36Z",
+            "open_issues": 74,
             "owner": "google",
             "repo": "santa",
-            "stars": 4511
+            "stars": 4510,
+            "topics": [
+              "allowlist",
+              "authorization",
+              "blocklist",
+              "endpoint-security",
+              "macos",
+              "santa",
+              "security",
+              "system-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -42,12 +67,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS and macOS Decompiler",
+            "homepage": null,
             "id": 728914226,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-26T05:59:43Z",
+            "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3176
+            "stars": 3177,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -58,12 +88,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OS X Auditor is a free Mac OS X computer forensics tool",
+            "homepage": null,
             "id": 10801048,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2020-07-27T22:34:25Z",
+            "open_issues": 8,
             "owner": "jipegit",
             "repo": "OSXAuditor",
-            "stars": 3135
+            "stars": 3135,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -74,12 +109,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A forensic evidence collection & analysis toolkit for OS X",
+            "homepage": "http://yelp.github.io/osxcollector",
             "id": 22615096,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2019-06-19T15:40:49Z",
+            "open_issues": 18,
             "owner": "YelpArchive",
             "repo": "osxcollector",
-            "stars": 1894
+            "stars": 1894,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -90,12 +130,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily configure macOS security settings from the terminal.",
+            "homepage": null,
             "id": 125603504,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-24T07:31:58Z",
+            "open_issues": 10,
             "owner": "alichtman",
             "repo": "stronghold",
-            "stars": 1191
+            "stars": 1191,
+            "topics": [
+              "command-line",
+              "command-line-tool",
+              "hardening",
+              "macos",
+              "macos-setup",
+              "osx",
+              "security",
+              "security-hardening"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -106,12 +160,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "macOS (& ios) Artifact Parsing Tool",
+            "homepage": "https://swiftforensics.com",
             "id": 101311218,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T23:27:52Z",
+            "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1077
+            "stars": 1077,
+            "topics": [
+              "dfir",
+              "forensics",
+              "macos"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -122,12 +185,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "macOS (& ios) Artifact Parsing Tool",
+            "homepage": "https://swiftforensics.com",
             "id": 101311218,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T23:27:52Z",
+            "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1077
+            "stars": 1077,
+            "topics": [
+              "dfir",
+              "forensics",
+              "macos"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -138,12 +210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "interprocess code injection for Mac OS X",
+            "homepage": null,
             "id": 5365623,
             "language": "C",
+            "license": null,
             "last_commit": "2016-11-08T17:22:55Z",
+            "open_issues": 15,
             "owner": "rentzsch",
             "repo": "mach_inject",
-            "stars": 832
+            "stars": 832,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -154,12 +231,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Mac Intrusion Detection Analysis System",
+            "homepage": null,
             "id": 14958024,
             "language": null,
+            "license": null,
             "last_commit": "2015-09-23T15:45:08Z",
+            "open_issues": 1,
             "owner": "etsy",
             "repo": "MIDAS",
-            "stars": 826
+            "stars": 826,
+            "topics": [
+              "non-sox"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -170,12 +254,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anti-forensic macOS tray application designed to safeguard your system by monitoring USB ports.",
+            "homepage": null,
             "id": 694104435,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-10T15:59:04Z",
+            "open_issues": 6,
             "owner": "Lennolium",
             "repo": "swiftGuard",
-            "stars": 468
+            "stars": 468,
+            "topics": [
+              "anti-forensics",
+              "defensive-security",
+              "macos",
+              "opsec",
+              "physical-security",
+              "security",
+              "tampering-detection"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -186,12 +283,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically audit your Mac for basic security hygiene.",
+            "homepage": "https://paretosecurity.com",
             "id": 385891121,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-17T17:55:06Z",
+            "open_issues": 8,
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
-            "stars": 453
+            "stars": 453,
+            "topics": [
+              "endpoint-security",
+              "macos",
+              "security",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -202,12 +310,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bucket and triage on-disk crashes. OSX and Linux.",
+            "homepage": null,
             "id": 32255708,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-19T18:08:25Z",
+            "open_issues": 10,
             "owner": "bnagy",
             "repo": "crashwalk",
-            "stars": 361
+            "stars": 361,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -218,12 +331,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of forensics artifacts location for Mac OS X and iOS",
+            "homepage": null,
             "id": 32288372,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-11T10:59:21Z",
+            "open_issues": 0,
             "owner": "pstirparo",
             "repo": "mac4n6",
-            "stars": 346
+            "stars": 346,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -234,12 +352,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode.",
+            "homepage": null,
             "id": 71976500,
             "language": "C",
+            "license": null,
             "last_commit": "2017-10-18T10:29:47Z",
+            "open_issues": 1,
             "owner": "SilverMoonSecurity",
             "repo": "PassiveFuzzFrameworkOSX",
-            "stars": 229
+            "stars": 229,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -250,12 +373,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cover your Mac screen with a hotkey while AI agents keep running. Dog/cat mascot, native Settings, Touch ID unlock.",
+            "homepage": "https://getlockpaw.com",
             "id": 1186242047,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-24T08:59:34Z",
+            "open_issues": 5,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 145
+            "stars": 146,
+            "topics": [
+              "ai-agents",
+              "claude-code",
+              "developer-tools",
+              "hotkey",
+              "macos",
+              "macos-app",
+              "menubar",
+              "open-source",
+              "privacy",
+              "screen-lock",
+              "screen-privacy",
+              "security",
+              "swift",
+              "swiftui",
+              "touch-id",
+              "utilities"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -266,12 +411,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "macOS companion toolkit for power users",
+            "homepage": null,
             "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-27T15:17:38Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:45:59Z",
+            "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "bash",
+              "cli",
+              "developer-tools",
+              "fleet-management",
+              "macos",
+              "security",
+              "security-audit",
+              "shell",
+              "ssh",
+              "sysadmin",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -282,12 +444,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "XNU Rootkit Framework",
+            "homepage": null,
             "id": 26304830,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2015-01-03T05:43:15Z",
+            "open_issues": 0,
             "owner": "squiffy",
             "repo": "Masochist",
-            "stars": 125
+            "stars": 125,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -298,12 +465,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audit and fix your Mac's security in one command. No agent, no signup, open source.",
+            "homepage": "https://djadmin.github.io/fort",
             "id": 1245511471,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-09T14:13:37Z",
+            "open_issues": 0,
             "owner": "djadmin",
             "repo": "fort",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "audit",
+              "claude",
+              "claude-code",
+              "claude-code-plugin",
+              "cli",
+              "compliance",
+              "cybersecurity",
+              "devsecops",
+              "endpoint-security",
+              "golang",
+              "hardening",
+              "homebrew",
+              "iso27001",
+              "mac-security",
+              "macos",
+              "macos-security",
+              "security",
+              "security-audit",
+              "security-tools",
+              "soc2"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -314,12 +507,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another code injection library for macOS",
+            "homepage": null,
             "id": 26587407,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2015-03-02T11:43:46Z",
+            "open_issues": 4,
             "owner": "rodionovd",
             "repo": "task_vaccine",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -330,12 +528,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mach-o diffing tool",
+            "homepage": null,
             "id": 17096427,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2015-07-16T00:32:30Z",
+            "open_issues": 0,
             "owner": "samdmarshall",
             "repo": "machodiff",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -346,12 +549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security Scanner for OSX",
+            "homepage": null,
             "id": 42044714,
             "language": "Swift",
+            "license": null,
             "last_commit": "2015-10-04T13:12:47Z",
+            "open_issues": 0,
             "owner": "openscanner",
             "repo": "XGuardian",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -362,12 +570,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "macOS vulnerability management for individuals",
+            "homepage": "https://manasecurity.com",
             "id": 432181237,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T14:51:50Z",
+            "open_issues": 15,
             "owner": "manasecurity",
             "repo": "mana-security-app",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "cybersecurity",
+              "electron",
+              "macos",
+              "patch-management",
+              "personal-cybersecurity",
+              "react",
+              "redux",
+              "security",
+              "vulnerability-management"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         }
@@ -384,12 +607,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📱 objection - runtime mobile exploration",
+            "homepage": null,
             "id": 95770373,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-23T13:40:22Z",
+            "open_issues": 55,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9348
+            "stars": 9350,
+            "topics": [
+              "android",
+              "framework",
+              "frida",
+              "instrumentation",
+              "ios",
+              "mobile",
+              "pentest",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -400,12 +637,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform protocol library to communicate with iOS devices",
+            "homepage": "https://libimobiledevice.org",
             "id": 8180677,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2026-06-10T07:52:18Z",
+            "open_issues": 848,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8136
+            "stars": 8136,
+            "topics": [
+              "c",
+              "ios",
+              "library",
+              "lockdownd",
+              "protocol"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -416,12 +664,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.",
+            "homepage": "https://www.cossacklabs.com/themis",
             "id": 35159920,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-24T14:01:56Z",
+            "open_issues": 31,
             "owner": "cossacklabs",
             "repo": "themis",
-            "stars": 1973
+            "stars": 1973,
+            "topics": [
+              "asymmetric-cryptography",
+              "authentication",
+              "cryptography",
+              "cryptography-library",
+              "encryption",
+              "golang",
+              "ios",
+              "java",
+              "javascript",
+              "objective-c",
+              "owasp",
+              "php",
+              "python",
+              "ruby",
+              "rust",
+              "secure-messenger",
+              "secure-storage",
+              "security",
+              "swift",
+              "symmetric-cryptography"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -432,12 +706,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The iOS Security Testing Framework",
+            "homepage": "https://mobiletools.mwrinfosecurity.com/",
             "id": 64016453,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-10-25T16:17:16Z",
+            "open_issues": 25,
             "owner": "ReversecLabs",
             "repo": "needle",
-            "stars": 1401
+            "stars": 1401,
+            "topics": [
+              "ios",
+              "mobile",
+              "needle",
+              "pentesting",
+              "python",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -448,12 +734,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetration testing skills in a legal environment. This project is developed and maintained by @prateekg147. The vulnerabilities and solutions covered in this app are tested up to iOS 11. The current version is writen in Swift and has the following vulnerabilities.",
+            "homepage": "http://damnvulnerableiosapp.com",
             "id": 121053724,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-03-29T08:02:06Z",
+            "open_issues": 9,
             "owner": "prateek147",
             "repo": "DVIA-v2",
-            "stars": 1111
+            "stars": 1111,
+            "topics": [
+              "ios-swift",
+              "jailbreak",
+              "mobile-app",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -464,12 +760,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "idb is a tool to simplify some common tasks for iOS pentesting and research",
+            "homepage": null,
             "id": 13483186,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2023-03-25T07:53:46Z",
+            "open_issues": 36,
             "owner": "dmayer",
             "repo": "idb",
-            "stars": 955
+            "stars": 955,
+            "topics": [
+              "project"
+            ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -480,12 +783,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 18208321,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-14T20:10:18Z",
+            "open_issues": 22,
             "owner": "S3Jensen",
             "repo": "iRET",
-            "stars": 422
+            "stars": 422,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -496,12 +804,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 201120928,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-12-28T13:14:17Z",
+            "open_issues": 2,
             "owner": "googleprojectzero",
             "repo": "iOS-messaging-tools",
-            "stars": 386
+            "stars": 386,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         },
@@ -512,12 +825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS Mobile Backup Extractor",
+            "homepage": null,
             "id": 165453863,
             "language": "C",
+            "license": "MPL-2.0",
             "last_commit": "2022-05-28T17:18:49Z",
+            "open_issues": 2,
             "owner": "Siguza",
             "repo": "imobax",
-            "stars": 202
+            "stars": 202,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
         }
@@ -526,15 +844,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:33:29.287Z",
+    "last_updated": "2026-08-29T04:29:05.257Z",
     "original_repository_info": {
       "archived": false,
+      "description": "OSX and iOS related security tools",
+      "homepage": null,
       "id": 29182759,
       "language": "Shell",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-15T02:27:49Z",
+      "open_issues": 0,
       "owner": "ashishb",
       "repo": "osx-and-ios-security-awesome",
-      "stars": 1729
+      "stars": 1730,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ios-security",
+        "macos",
+        "osx",
+        "osx-security",
+        "security"
+      ]
     },
     "original_repository_sha": "58da16d505532dc86b5b57c8f06cdb28b7defa7c",
     "enhanced_repository": "enhansome/osx-and-ios-security-enhansome",
