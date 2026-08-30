@@ -19,7 +19,7 @@
             "open_issues": 632,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23527,
+            "stars": 23532,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -76,7 +76,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3177,
+            "stars": 3178,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -169,7 +169,7 @@
             "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1077,
+            "stars": 1079,
             "topics": [
               "dfir",
               "forensics",
@@ -194,7 +194,7 @@
             "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1077,
+            "stars": 1079,
             "topics": [
               "dfir",
               "forensics",
@@ -616,7 +616,7 @@
             "open_issues": 55,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9350,
+            "stars": 9352,
             "topics": [
               "android",
               "framework",
@@ -646,7 +646,7 @@
             "open_issues": 848,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8136,
+            "stars": 8153,
             "topics": [
               "c",
               "ios",
@@ -743,7 +743,7 @@
             "open_issues": 9,
             "owner": "prateek147",
             "repo": "DVIA-v2",
-            "stars": 1111,
+            "stars": 1112,
             "topics": [
               "ios-swift",
               "jailbreak",
@@ -844,7 +844,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:26:11.999Z",
+    "last_updated": "2026-08-30T07:40:04.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
