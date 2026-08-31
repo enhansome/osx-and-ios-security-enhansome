@@ -16,7 +16,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-08-25T16:33:00Z",
-            "open_issues": 632,
+            "open_issues": 633,
             "owner": "osquery",
             "repo": "osquery",
             "stars": 23532,
@@ -46,7 +46,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "santa",
-            "stars": 4510,
+            "stars": 4509,
             "topics": [
               "allowlist",
               "authorization",
@@ -97,7 +97,7 @@
             "open_issues": 8,
             "owner": "jipegit",
             "repo": "OSXAuditor",
-            "stars": 3135,
+            "stars": 3133,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -288,8 +288,8 @@
             "id": 385891121,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-17T17:55:06Z",
-            "open_issues": 8,
+            "last_commit": "2026-08-30T22:43:30Z",
+            "open_issues": 9,
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
             "stars": 453,
@@ -416,7 +416,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-28T23:45:59Z",
+            "last_commit": "2026-08-30T22:53:54Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -616,7 +616,7 @@
             "open_issues": 55,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9352,
+            "stars": 9354,
             "topics": [
               "android",
               "framework",
@@ -646,7 +646,7 @@
             "open_issues": 848,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8153,
+            "stars": 8159,
             "topics": [
               "c",
               "ios",
@@ -844,7 +844,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T07:40:04.499Z",
+    "last_updated": "2026-08-31T07:54:11.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
