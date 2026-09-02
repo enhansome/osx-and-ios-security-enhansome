@@ -19,7 +19,7 @@
             "open_issues": 633,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23531,
+            "stars": 23533,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -76,7 +76,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3178,
+            "stars": 3180,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -382,7 +382,7 @@
             "open_issues": 5,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -416,8 +416,8 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-01T02:42:05Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-02T02:29:14Z",
+            "open_issues": 2,
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130,
@@ -613,10 +613,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-07-23T13:40:22Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9355,
+            "stars": 9357,
             "topics": [
               "android",
               "framework",
@@ -646,7 +646,7 @@
             "open_issues": 848,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8163,
+            "stars": 8167,
             "topics": [
               "c",
               "ios",
@@ -838,13 +838,42 @@
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "EvilCorp iOS",
+          "description": "An intentionally vulnerable iOS application built with SwiftUI for modern iOS security training (30 challenges mapped to OWASP MASVS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Intentionally vulnerable iOS application for mobile security training — 30 challenges across OWASP MASVS categories",
+            "homepage": "https://jankesec.com",
+            "id": 1275194221,
+            "language": "Swift",
+            "license": null,
+            "last_commit": "2026-06-24T20:16:30Z",
+            "open_issues": 0,
+            "owner": "jankesec",
+            "repo": "evilcorp-ios",
+            "stars": 1,
+            "topics": [
+              "ctf",
+              "ios",
+              "mobile-security",
+              "owasp-masvs",
+              "security-training",
+              "swift",
+              "vulnerable-app"
+            ]
+          },
+          "first_seen": "2026-09-02T06:38:11.540Z"
         }
       ],
       "title": "iOS Security"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T06:59:20.405Z",
+    "last_updated": "2026-09-02T06:38:11.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
@@ -852,11 +881,11 @@
       "id": 29182759,
       "language": "Shell",
       "license": "CC0-1.0",
-      "last_commit": "2026-08-15T02:27:49Z",
+      "last_commit": "2026-09-02T05:53:39Z",
       "open_issues": 0,
       "owner": "ashishb",
       "repo": "osx-and-ios-security-awesome",
-      "stars": 1730,
+      "stars": 1731,
       "topics": [
         "awesome",
         "awesome-list",
@@ -867,7 +896,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "58da16d505532dc86b5b57c8f06cdb28b7defa7c",
+    "original_repository_sha": "efe423f3f3058bfcca75c542ccbd410aaf75a27d",
     "enhanced_repository": "enhansome/osx-and-ios-security-enhansome",
     "enhanced_repository_description": null,
     "title": "Awesome macOS and iOS Security Related Tools with stars"
