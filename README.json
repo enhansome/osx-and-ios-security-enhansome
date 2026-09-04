@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-08-25T16:33:00Z",
-            "open_issues": 633,
+            "open_issues": 634,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23536,
+            "stars": 23538,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -46,7 +46,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "santa",
-            "stars": 4509,
+            "stars": 4508,
             "topics": [
               "allowlist",
               "authorization",
@@ -76,7 +76,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3182,
+            "stars": 3181,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -169,7 +169,7 @@
             "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1079,
+            "stars": 1080,
             "topics": [
               "dfir",
               "forensics",
@@ -194,7 +194,7 @@
             "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1079,
+            "stars": 1080,
             "topics": [
               "dfir",
               "forensics",
@@ -382,7 +382,7 @@
             "open_issues": 5,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 147,
+            "stars": 148,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -416,7 +416,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-02T15:24:56Z",
+            "last_commit": "2026-09-03T08:57:53Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -616,7 +616,7 @@
             "open_issues": 57,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9358,
+            "stars": 9361,
             "topics": [
               "android",
               "framework",
@@ -743,7 +743,7 @@
             "open_issues": 9,
             "owner": "prateek147",
             "repo": "DVIA-v2",
-            "stars": 1112,
+            "stars": 1111,
             "topics": [
               "ios-swift",
               "jailbreak",
@@ -873,7 +873,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T06:40:29.649Z",
+    "last_updated": "2026-09-04T06:45:06.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
@@ -885,7 +885,7 @@
       "open_issues": 0,
       "owner": "ashishb",
       "repo": "osx-and-ios-security-awesome",
-      "stars": 1731,
+      "stars": 1732,
       "topics": [
         "awesome",
         "awesome-list",
