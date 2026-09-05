@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-08-25T16:33:00Z",
-            "open_issues": 634,
+            "open_issues": 637,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23538,
+            "stars": 23542,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -169,7 +169,7 @@
             "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1080,
+            "stars": 1081,
             "topics": [
               "dfir",
               "forensics",
@@ -194,7 +194,7 @@
             "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1080,
+            "stars": 1081,
             "topics": [
               "dfir",
               "forensics",
@@ -416,7 +416,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-03T08:57:53Z",
+            "last_commit": "2026-09-05T01:07:51Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -579,7 +579,7 @@
             "open_issues": 15,
             "owner": "manasecurity",
             "repo": "mana-security-app",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "cybersecurity",
               "electron",
@@ -616,7 +616,7 @@
             "open_issues": 57,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9361,
+            "stars": 9365,
             "topics": [
               "android",
               "framework",
@@ -643,10 +643,10 @@
             "language": "C",
             "license": "LGPL-2.1",
             "last_commit": "2026-06-10T07:52:18Z",
-            "open_issues": 848,
+            "open_issues": 847,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8171,
+            "stars": 8173,
             "topics": [
               "c",
               "ios",
@@ -873,7 +873,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T06:45:06.706Z",
+    "last_updated": "2026-09-05T06:30:48.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
