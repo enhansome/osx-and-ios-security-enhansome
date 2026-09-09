@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-08-25T16:33:00Z",
-            "open_issues": 642,
+            "open_issues": 644,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23552,
+            "stars": 23553,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -46,7 +46,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "santa",
-            "stars": 4508,
+            "stars": 4507,
             "topics": [
               "allowlist",
               "authorization",
@@ -76,7 +76,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3183,
+            "stars": 3185,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -97,7 +97,7 @@
             "open_issues": 8,
             "owner": "jipegit",
             "repo": "OSXAuditor",
-            "stars": 3133,
+            "stars": 3132,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -378,8 +378,8 @@
             "id": 1186242047,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-06T13:11:37Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-09T06:45:35Z",
+            "open_issues": 1,
             "owner": "sorkila",
             "repo": "lockpaw",
             "stars": 148,
@@ -416,7 +416,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-06T08:41:36Z",
+            "last_commit": "2026-09-08T22:42:43Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -616,7 +616,7 @@
             "open_issues": 57,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9372,
+            "stars": 9373,
             "topics": [
               "android",
               "framework",
@@ -769,7 +769,7 @@
             "open_issues": 36,
             "owner": "dmayer",
             "repo": "idb",
-            "stars": 954,
+            "stars": 953,
             "topics": [
               "project"
             ]
@@ -873,7 +873,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T06:44:38.623Z",
+    "last_updated": "2026-09-09T06:53:41.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
