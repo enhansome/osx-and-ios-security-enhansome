@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-09T14:03:13Z",
-            "open_issues": 645,
+            "open_issues": 655,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23560,
+            "stars": 23562,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -76,7 +76,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3189,
+            "stars": 3190,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -263,7 +263,7 @@
             "open_issues": 6,
             "owner": "Lennolium",
             "repo": "swiftGuard",
-            "stars": 470,
+            "stars": 471,
             "topics": [
               "anti-forensics",
               "defensive-security",
@@ -416,7 +416,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-10T08:58:35Z",
+            "last_commit": "2026-09-11T08:56:33Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -616,7 +616,7 @@
             "open_issues": 57,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9379,
+            "stars": 9382,
             "topics": [
               "android",
               "framework",
@@ -646,7 +646,7 @@
             "open_issues": 846,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8178,
+            "stars": 8179,
             "topics": [
               "c",
               "ios",
@@ -873,7 +873,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T06:50:17.390Z",
+    "last_updated": "2026-09-12T06:41:49.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
@@ -882,10 +882,10 @@
       "language": "Shell",
       "license": "CC0-1.0",
       "last_commit": "2026-09-02T05:53:39Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "ashishb",
       "repo": "osx-and-ios-security-awesome",
-      "stars": 1734,
+      "stars": 1735,
       "topics": [
         "awesome",
         "awesome-list",
