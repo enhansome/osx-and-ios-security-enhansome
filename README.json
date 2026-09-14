@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-09T14:03:13Z",
-            "open_issues": 661,
+            "open_issues": 664,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23563,
+            "stars": 23566,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -76,7 +76,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3191,
+            "stars": 3192,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -416,7 +416,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-12T08:39:45Z",
+            "last_commit": "2026-09-13T09:36:59Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -601,279 +601,293 @@
       "description": "A collection of iOS security-related resources",
       "items": [
         {
-          "node_type": "item",
-          "title": "objection",
-          "description": "A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "📱 objection - runtime mobile exploration",
-            "homepage": null,
-            "id": 95770373,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-07-23T13:40:22Z",
-            "open_issues": 57,
-            "owner": "sensepost",
-            "repo": "objection",
-            "stars": 9383,
-            "topics": [
-              "android",
-              "framework",
-              "frida",
-              "instrumentation",
-              "ios",
-              "mobile",
-              "pentest",
-              "security"
-            ]
-          },
-          "first_seen": "2026-08-28T13:33:29.287Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DVIA v2",
+              "description": "Damn Vulnerable iOS App v2 for learning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetration testing skills in a legal environment. This project is developed and maintained by @prateekg147. The vulnerabilities and solutions covered in this app are tested up to iOS 11. The current version is writen in Swift and has the following vulnerabilities.",
+                "homepage": "http://damnvulnerableiosapp.com",
+                "id": 121053724,
+                "language": "Swift",
+                "license": "MIT",
+                "last_commit": "2024-03-29T08:02:06Z",
+                "open_issues": 9,
+                "owner": "prateek147",
+                "repo": "DVIA-v2",
+                "stars": 1110,
+                "topics": [
+                  "ios-swift",
+                  "jailbreak",
+                  "mobile-app",
+                  "security"
+                ]
+              },
+              "first_seen": "2026-08-28T13:33:29.287Z"
+            },
+            {
+              "node_type": "item",
+              "title": "IDB",
+              "description": "iOS App Security Assessment Tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "idb is a tool to simplify some common tasks for iOS pentesting and research",
+                "homepage": null,
+                "id": 13483186,
+                "language": "Ruby",
+                "license": "MIT",
+                "last_commit": "2023-03-25T07:53:46Z",
+                "open_issues": 36,
+                "owner": "dmayer",
+                "repo": "idb",
+                "stars": 953,
+                "topics": [
+                  "project"
+                ]
+              },
+              "first_seen": "2026-08-28T13:33:29.287Z"
+            },
+            {
+              "node_type": "item",
+              "title": "iRET",
+              "description": "iOS Reverse Engineering Toolkit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 18208321,
+                "language": "Shell",
+                "license": "NOASSERTION",
+                "last_commit": "2024-06-14T20:10:18Z",
+                "open_issues": 22,
+                "owner": "S3Jensen",
+                "repo": "iRET",
+                "stars": 421,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:33:29.287Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EvilCorp iOS",
+              "description": "An intentionally vulnerable iOS application built with SwiftUI for modern iOS security training (30 challenges mapped to OWASP MASVS).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Intentionally vulnerable iOS application for mobile security training — 30 challenges across OWASP MASVS categories",
+                "homepage": "https://jankesec.com",
+                "id": 1275194221,
+                "language": "Swift",
+                "license": null,
+                "last_commit": "2026-06-24T20:16:30Z",
+                "open_issues": 0,
+                "owner": "jankesec",
+                "repo": "evilcorp-ios",
+                "stars": 1,
+                "topics": [
+                  "ctf",
+                  "ios",
+                  "mobile-security",
+                  "owasp-masvs",
+                  "security-training",
+                  "swift",
+                  "vulnerable-app"
+                ]
+              },
+              "first_seen": "2026-09-02T06:38:11.540Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing apps"
         },
         {
-          "node_type": "item",
-          "title": "LibiMobileDevice",
-          "description": "A cross-platform protocol library to communicate with iOS devices",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A cross-platform protocol library to communicate with iOS devices",
-            "homepage": "https://libimobiledevice.org",
-            "id": 8180677,
-            "language": "C",
-            "license": "LGPL-2.1",
-            "last_commit": "2026-06-10T07:52:18Z",
-            "open_issues": 846,
-            "owner": "libimobiledevice",
-            "repo": "libimobiledevice",
-            "stars": 8182,
-            "topics": [
-              "c",
-              "ios",
-              "library",
-              "lockdownd",
-              "protocol"
-            ]
-          },
-          "first_seen": "2026-08-28T13:33:29.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Themis",
-          "description": "a multi-platform programming library for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Recommended by OWASP MASVS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.",
-            "homepage": "https://www.cossacklabs.com/themis",
-            "id": 35159920,
-            "language": "C",
-            "license": "Apache-2.0",
-            "last_commit": "2026-04-24T14:01:56Z",
-            "open_issues": 31,
-            "owner": "cossacklabs",
-            "repo": "themis",
-            "stars": 1975,
-            "topics": [
-              "asymmetric-cryptography",
-              "authentication",
-              "cryptography",
-              "cryptography-library",
-              "encryption",
-              "golang",
-              "ios",
-              "java",
-              "javascript",
-              "objective-c",
-              "owasp",
-              "php",
-              "python",
-              "ruby",
-              "rust",
-              "secure-messenger",
-              "secure-storage",
-              "security",
-              "swift",
-              "symmetric-cryptography"
-            ]
-          },
-          "first_seen": "2026-08-28T13:33:29.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Needle - iOS App Pentesting Tool.",
-          "description": "Abandoned in 2025. The devs recommend using objection instead",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "The iOS Security Testing Framework",
-            "homepage": "https://mobiletools.mwrinfosecurity.com/",
-            "id": 64016453,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2020-10-25T16:17:16Z",
-            "open_issues": 25,
-            "owner": "ReversecLabs",
-            "repo": "needle",
-            "stars": 1400,
-            "topics": [
-              "ios",
-              "mobile",
-              "needle",
-              "pentesting",
-              "python",
-              "security"
-            ]
-          },
-          "first_seen": "2026-08-28T13:33:29.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "DVIA v2",
-          "description": "Damn Vulnerable iOS App v2 for learning",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetration testing skills in a legal environment. This project is developed and maintained by @prateekg147. The vulnerabilities and solutions covered in this app are tested up to iOS 11. The current version is writen in Swift and has the following vulnerabilities.",
-            "homepage": "http://damnvulnerableiosapp.com",
-            "id": 121053724,
-            "language": "Swift",
-            "license": "MIT",
-            "last_commit": "2024-03-29T08:02:06Z",
-            "open_issues": 9,
-            "owner": "prateek147",
-            "repo": "DVIA-v2",
-            "stars": 1111,
-            "topics": [
-              "ios-swift",
-              "jailbreak",
-              "mobile-app",
-              "security"
-            ]
-          },
-          "first_seen": "2026-08-28T13:33:29.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "IDB",
-          "description": "iOS App Security Assessment Tool",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "idb is a tool to simplify some common tasks for iOS pentesting and research",
-            "homepage": null,
-            "id": 13483186,
-            "language": "Ruby",
-            "license": "MIT",
-            "last_commit": "2023-03-25T07:53:46Z",
-            "open_issues": 36,
-            "owner": "dmayer",
-            "repo": "idb",
-            "stars": 953,
-            "topics": [
-              "project"
-            ]
-          },
-          "first_seen": "2026-08-28T13:33:29.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "iRET",
-          "description": "iOS Reverse Engineering Toolkit",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 18208321,
-            "language": "Shell",
-            "license": "NOASSERTION",
-            "last_commit": "2024-06-14T20:10:18Z",
-            "open_issues": 22,
-            "owner": "S3Jensen",
-            "repo": "iRET",
-            "stars": 421,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:33:29.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "iMessage Fuzzing",
-          "description": "iMessage fuzzing tools from Google's Project Zero",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": null,
-            "homepage": null,
-            "id": 201120928,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2019-12-28T13:14:17Z",
-            "open_issues": 2,
-            "owner": "googleprojectzero",
-            "repo": "iOS-messaging-tools",
-            "stars": 386,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:33:29.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "imobax",
-          "description": "iOS Mobile Backup Extractor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "iOS Mobile Backup Extractor",
-            "homepage": null,
-            "id": 165453863,
-            "language": "C",
-            "license": "MPL-2.0",
-            "last_commit": "2022-05-28T17:18:49Z",
-            "open_issues": 2,
-            "owner": "Siguza",
-            "repo": "imobax",
-            "stars": 202,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:33:29.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "EvilCorp iOS",
-          "description": "An intentionally vulnerable iOS application built with SwiftUI for modern iOS security training (30 challenges mapped to OWASP MASVS).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Intentionally vulnerable iOS application for mobile security training — 30 challenges across OWASP MASVS categories",
-            "homepage": "https://jankesec.com",
-            "id": 1275194221,
-            "language": "Swift",
-            "license": null,
-            "last_commit": "2026-06-24T20:16:30Z",
-            "open_issues": 0,
-            "owner": "jankesec",
-            "repo": "evilcorp-ios",
-            "stars": 1,
-            "topics": [
-              "ctf",
-              "ios",
-              "mobile-security",
-              "owasp-masvs",
-              "security-training",
-              "swift",
-              "vulnerable-app"
-            ]
-          },
-          "first_seen": "2026-09-02T06:38:11.540Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "objection",
+              "description": "A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "📱 objection - runtime mobile exploration",
+                "homepage": null,
+                "id": 95770373,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-07-23T13:40:22Z",
+                "open_issues": 57,
+                "owner": "sensepost",
+                "repo": "objection",
+                "stars": 9384,
+                "topics": [
+                  "android",
+                  "framework",
+                  "frida",
+                  "instrumentation",
+                  "ios",
+                  "mobile",
+                  "pentest",
+                  "security"
+                ]
+              },
+              "first_seen": "2026-08-28T13:33:29.287Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LibiMobileDevice",
+              "description": "A cross-platform protocol library to communicate with iOS devices",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A cross-platform protocol library to communicate with iOS devices",
+                "homepage": "https://libimobiledevice.org",
+                "id": 8180677,
+                "language": "C",
+                "license": "LGPL-2.1",
+                "last_commit": "2026-06-10T07:52:18Z",
+                "open_issues": 846,
+                "owner": "libimobiledevice",
+                "repo": "libimobiledevice",
+                "stars": 8185,
+                "topics": [
+                  "c",
+                  "ios",
+                  "library",
+                  "lockdownd",
+                  "protocol"
+                ]
+              },
+              "first_seen": "2026-08-28T13:33:29.287Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Themis",
+              "description": "a multi-platform programming library for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Recommended by OWASP MASVS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.",
+                "homepage": "https://www.cossacklabs.com/themis",
+                "id": 35159920,
+                "language": "C",
+                "license": "Apache-2.0",
+                "last_commit": "2026-04-24T14:01:56Z",
+                "open_issues": 31,
+                "owner": "cossacklabs",
+                "repo": "themis",
+                "stars": 1975,
+                "topics": [
+                  "asymmetric-cryptography",
+                  "authentication",
+                  "cryptography",
+                  "cryptography-library",
+                  "encryption",
+                  "golang",
+                  "ios",
+                  "java",
+                  "javascript",
+                  "objective-c",
+                  "owasp",
+                  "php",
+                  "python",
+                  "ruby",
+                  "rust",
+                  "secure-messenger",
+                  "secure-storage",
+                  "security",
+                  "swift",
+                  "symmetric-cryptography"
+                ]
+              },
+              "first_seen": "2026-08-28T13:33:29.287Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Needle - iOS App Pentesting Tool.",
+              "description": "Abandoned in 2025. The devs recommend using objection instead",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "The iOS Security Testing Framework",
+                "homepage": "https://mobiletools.mwrinfosecurity.com/",
+                "id": 64016453,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2020-10-25T16:17:16Z",
+                "open_issues": 25,
+                "owner": "ReversecLabs",
+                "repo": "needle",
+                "stars": 1400,
+                "topics": [
+                  "ios",
+                  "mobile",
+                  "needle",
+                  "pentesting",
+                  "python",
+                  "security"
+                ]
+              },
+              "first_seen": "2026-08-28T13:33:29.287Z"
+            },
+            {
+              "node_type": "item",
+              "title": "iMessage Fuzzing",
+              "description": "iMessage fuzzing tools from Google's Project Zero",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": null,
+                "homepage": null,
+                "id": 201120928,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2019-12-28T13:14:17Z",
+                "open_issues": 2,
+                "owner": "googleprojectzero",
+                "repo": "iOS-messaging-tools",
+                "stars": 386,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:33:29.287Z"
+            },
+            {
+              "node_type": "item",
+              "title": "imobax",
+              "description": "iOS Mobile Backup Extractor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "iOS Mobile Backup Extractor",
+                "homepage": null,
+                "id": 165453863,
+                "language": "C",
+                "license": "MPL-2.0",
+                "last_commit": "2022-05-28T17:18:49Z",
+                "open_issues": 2,
+                "owner": "Siguza",
+                "repo": "imobax",
+                "stars": 202,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:33:29.287Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "iOS Security Tools"
         }
       ],
       "title": "iOS Security"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:59:23.388Z",
+    "last_updated": "2026-09-14T07:21:33.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
@@ -881,8 +895,8 @@
       "id": 29182759,
       "language": "Shell",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-02T05:53:39Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-14T07:09:52Z",
+      "open_issues": 0,
       "owner": "ashishb",
       "repo": "osx-and-ios-security-awesome",
       "stars": 1736,
@@ -896,7 +910,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "efe423f3f3058bfcca75c542ccbd410aaf75a27d",
+    "original_repository_sha": "477c455e4b5f47fef3fab76a03af46ac33e50a0b",
     "enhanced_repository": "enhansome/osx-and-ios-security-enhansome",
     "enhanced_repository_description": null,
     "title": "Awesome macOS and iOS Security Related Tools with stars"
