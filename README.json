@@ -15,11 +15,11 @@
             "id": 22394357,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T14:03:13Z",
-            "open_issues": 666,
+            "last_commit": "2026-09-15T17:13:39Z",
+            "open_issues": 657,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23566,
+            "stars": 23570,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -76,7 +76,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3192,
+            "stars": 3190,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -288,7 +288,7 @@
             "id": 385891121,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T22:43:30Z",
+            "last_commit": "2026-09-16T06:53:37Z",
             "open_issues": 9,
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
@@ -379,7 +379,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-09-15T05:42:04Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "sorkila",
             "repo": "lockpaw",
             "stars": 153,
@@ -416,7 +416,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-14T09:55:24Z",
+            "last_commit": "2026-09-15T09:29:10Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -593,6 +593,47 @@
             ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "macharden",
+          "description": "Enterprise-grade macOS security audit, posture assessment, and baseline drift engine. 54 CIS/NIST/MITRE controls, OASIS SARIF v2.1.0, and interactive Liquid Glass HTML5 dashboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Enterprise-Grade macOS Security Hardening, Audit & Baseline Drift Engine (54 CIS/NIST/MITRE controls, OASIS SARIF v2.1.0, Zero Dependencies)",
+            "homepage": null,
+            "id": 1367475789,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-09-15T19:34:37Z",
+            "open_issues": 0,
+            "owner": "jankesec",
+            "repo": "macharden",
+            "stars": 0,
+            "topics": [
+              "audit",
+              "bash",
+              "blue-team",
+              "cis-benchmark",
+              "compliance",
+              "cybersecurity",
+              "devsecops",
+              "endpoint-security",
+              "hardening",
+              "macos",
+              "macos-security",
+              "mitre-attack",
+              "nist-800-53",
+              "red-team",
+              "sarif",
+              "security",
+              "security-tools",
+              "zero-dependency",
+              "zsh"
+            ]
+          },
+          "first_seen": "2026-09-16T06:59:38.142Z"
         }
       ],
       "title": "macOS Security"
@@ -618,7 +659,7 @@
                 "open_issues": 9,
                 "owner": "prateek147",
                 "repo": "DVIA-v2",
-                "stars": 1110,
+                "stars": 1111,
                 "topics": [
                   "ios-swift",
                   "jailbreak",
@@ -721,10 +762,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-23T13:40:22Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9387,
+                "stars": 9390,
                 "topics": [
                   "android",
                   "framework",
@@ -754,7 +795,7 @@
                 "open_issues": 846,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8187,
+                "stars": 8190,
                 "topics": [
                   "c",
                   "ios",
@@ -887,7 +928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:57:57.670Z",
+    "last_updated": "2026-09-16T06:59:38.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
@@ -895,7 +936,7 @@
       "id": 29182759,
       "language": "Shell",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-14T07:09:52Z",
+      "last_commit": "2026-09-15T18:20:59Z",
       "open_issues": 0,
       "owner": "ashishb",
       "repo": "osx-and-ios-security-awesome",
@@ -910,7 +951,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "477c455e4b5f47fef3fab76a03af46ac33e50a0b",
+    "original_repository_sha": "64f2ef011190e8d61d24199589b41c29e06d7874",
     "enhanced_repository": "enhansome/osx-and-ios-security-enhansome",
     "enhanced_repository_description": null,
     "title": "Awesome macOS and iOS Security Related Tools with stars"
