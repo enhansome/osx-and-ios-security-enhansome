@@ -15,11 +15,11 @@
             "id": 22394357,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T17:13:39Z",
-            "open_issues": 657,
+            "last_commit": "2026-09-16T17:15:29Z",
+            "open_issues": 650,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23570,
+            "stars": 23575,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -76,7 +76,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3190,
+            "stars": 3189,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -288,7 +288,7 @@
             "id": 385891121,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T06:53:37Z",
+            "last_commit": "2026-09-16T08:56:11Z",
             "open_issues": 9,
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
@@ -416,7 +416,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-15T09:29:10Z",
+            "last_commit": "2026-09-16T09:19:53Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -610,7 +610,7 @@
             "open_issues": 0,
             "owner": "jankesec",
             "repo": "macharden",
-            "stars": 0,
+            "stars": 3,
             "topics": [
               "audit",
               "bash",
@@ -659,7 +659,7 @@
                 "open_issues": 9,
                 "owner": "prateek147",
                 "repo": "DVIA-v2",
-                "stars": 1111,
+                "stars": 1112,
                 "topics": [
                   "ios-swift",
                   "jailbreak",
@@ -765,7 +765,7 @@
                 "open_issues": 58,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9390,
+                "stars": 9394,
                 "topics": [
                   "android",
                   "framework",
@@ -795,7 +795,7 @@
                 "open_issues": 846,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8190,
+                "stars": 8193,
                 "topics": [
                   "c",
                   "ios",
@@ -864,7 +864,7 @@
                 "open_issues": 25,
                 "owner": "ReversecLabs",
                 "repo": "needle",
-                "stars": 1401,
+                "stars": 1402,
                 "topics": [
                   "ios",
                   "mobile",
@@ -928,7 +928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T06:59:38.142Z",
+    "last_updated": "2026-09-17T06:55:13.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
