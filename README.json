@@ -19,7 +19,7 @@
             "open_issues": 609,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23582,
+            "stars": 23581,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -76,7 +76,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3191,
+            "stars": 3193,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -416,7 +416,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-18T09:01:47Z",
+            "last_commit": "2026-09-19T08:49:51Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -659,7 +659,7 @@
                 "open_issues": 9,
                 "owner": "prateek147",
                 "repo": "DVIA-v2",
-                "stars": 1112,
+                "stars": 1113,
                 "topics": [
                   "ios-swift",
                   "jailbreak",
@@ -765,7 +765,7 @@
                 "open_issues": 57,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9400,
+                "stars": 9401,
                 "topics": [
                   "android",
                   "framework",
@@ -795,7 +795,7 @@
                 "open_issues": 846,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8199,
+                "stars": 8202,
                 "topics": [
                   "c",
                   "ios",
@@ -822,7 +822,7 @@
                 "open_issues": 31,
                 "owner": "cossacklabs",
                 "repo": "themis",
-                "stars": 1976,
+                "stars": 1975,
                 "topics": [
                   "asymmetric-cryptography",
                   "authentication",
@@ -928,7 +928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T06:51:02.082Z",
+    "last_updated": "2026-09-20T07:15:52.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
