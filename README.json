@@ -19,7 +19,7 @@
             "open_issues": 611,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23582,
+            "stars": 23584,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -46,7 +46,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "santa",
-            "stars": 4507,
+            "stars": 4506,
             "topics": [
               "allowlist",
               "authorization",
@@ -97,7 +97,7 @@
             "open_issues": 9,
             "owner": "jipegit",
             "repo": "OSXAuditor",
-            "stars": 3132,
+            "stars": 3131,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -118,7 +118,7 @@
             "open_issues": 18,
             "owner": "YelpArchive",
             "repo": "osxcollector",
-            "stars": 1894,
+            "stars": 1891,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -139,7 +139,7 @@
             "open_issues": 10,
             "owner": "alichtman",
             "repo": "stronghold",
-            "stars": 1192,
+            "stars": 1191,
             "topics": [
               "command-line",
               "command-line-tool",
@@ -169,7 +169,7 @@
             "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1085,
+            "stars": 1084,
             "topics": [
               "dfir",
               "forensics",
@@ -194,7 +194,7 @@
             "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1085,
+            "stars": 1084,
             "topics": [
               "dfir",
               "forensics",
@@ -263,7 +263,7 @@
             "open_issues": 6,
             "owner": "Lennolium",
             "repo": "swiftGuard",
-            "stars": 470,
+            "stars": 469,
             "topics": [
               "anti-forensics",
               "defensive-security",
@@ -416,7 +416,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-20T09:18:59Z",
+            "last_commit": "2026-09-21T09:59:22Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -558,7 +558,7 @@
             "open_issues": 0,
             "owner": "openscanner",
             "repo": "XGuardian",
-            "stars": 43,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -729,7 +729,7 @@
                 "open_issues": 0,
                 "owner": "jankesec",
                 "repo": "evilcorp-ios",
-                "stars": 1,
+                "stars": 2,
                 "topics": [
                   "ctf",
                   "ios",
@@ -762,10 +762,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-17T07:20:15Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9402,
+                "stars": 9403,
                 "topics": [
                   "android",
                   "framework",
@@ -795,7 +795,7 @@
                 "open_issues": 846,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8203,
+                "stars": 8204,
                 "topics": [
                   "c",
                   "ios",
@@ -928,7 +928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T07:25:19.353Z",
+    "last_updated": "2026-09-22T07:03:48.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
@@ -940,7 +940,7 @@
       "open_issues": 0,
       "owner": "ashishb",
       "repo": "osx-and-ios-security-awesome",
-      "stars": 1740,
+      "stars": 1739,
       "topics": [
         "awesome",
         "awesome-list",
