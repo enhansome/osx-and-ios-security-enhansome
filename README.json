@@ -15,11 +15,11 @@
             "id": 22394357,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T20:10:47Z",
-            "open_issues": 611,
+            "last_commit": "2026-09-22T16:26:35Z",
+            "open_issues": 604,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23584,
+            "stars": 23587,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -76,7 +76,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3194,
+            "stars": 3196,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -97,7 +97,7 @@
             "open_issues": 9,
             "owner": "jipegit",
             "repo": "OSXAuditor",
-            "stars": 3131,
+            "stars": 3132,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -169,7 +169,7 @@
             "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1084,
+            "stars": 1086,
             "topics": [
               "dfir",
               "forensics",
@@ -194,7 +194,7 @@
             "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1084,
+            "stars": 1086,
             "topics": [
               "dfir",
               "forensics",
@@ -288,8 +288,8 @@
             "id": 385891121,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T08:56:11Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-22T19:06:19Z",
+            "open_issues": 8,
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
             "stars": 457,
@@ -416,7 +416,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-21T09:59:22Z",
+            "last_commit": "2026-09-22T09:20:01Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -610,7 +610,7 @@
             "open_issues": 0,
             "owner": "jankesec",
             "repo": "macharden",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "audit",
               "bash",
@@ -792,10 +792,10 @@
                 "language": "C",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-06-10T07:52:18Z",
-                "open_issues": 846,
+                "open_issues": 848,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8204,
+                "stars": 8207,
                 "topics": [
                   "c",
                   "ios",
@@ -928,7 +928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:03:48.093Z",
+    "last_updated": "2026-09-23T06:59:07.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
