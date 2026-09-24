@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-22T16:26:35Z",
-            "open_issues": 604,
+            "open_issues": 606,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23587,
+            "stars": 23585,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -46,7 +46,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "santa",
-            "stars": 4506,
+            "stars": 4505,
             "topics": [
               "allowlist",
               "authorization",
@@ -76,7 +76,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3196,
+            "stars": 3195,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -416,7 +416,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-22T09:20:01Z",
+            "last_commit": "2026-09-23T15:14:06Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -741,6 +741,48 @@
                 ]
               },
               "first_seen": "2026-09-02T06:38:11.540Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DVMA",
+              "description": "Damn Vulnerable Mobile App, an intentionally vulnerable Flutter app for Android and iOS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Damn Vulnerable Mobile App - a single Flutter codebase that builds real native iOS & Android binaries with 200+ intentionally-vulnerable modules mapped to OWASP MASVS/MASTG, Mobile Top 10, CWE, plus LLM & Agentic AI Top 10. For mobile security training, pentest practice, and scanner validation.",
+                "homepage": "https://cpeoples.github.io/dvma/",
+                "id": 1360628525,
+                "language": "Dart",
+                "license": "MIT",
+                "last_commit": "2026-09-23T23:45:03Z",
+                "open_issues": 0,
+                "owner": "cpeoples",
+                "repo": "dvma",
+                "stars": 2,
+                "topics": [
+                  "agentic-ai",
+                  "ai-security",
+                  "android",
+                  "appsec",
+                  "ctf",
+                  "cwe",
+                  "dart",
+                  "flutter",
+                  "ios",
+                  "llm-security",
+                  "mastg",
+                  "masvs",
+                  "mobile-security",
+                  "owasp",
+                  "owasp-mobile-top-10",
+                  "penetration-testing",
+                  "pentesting",
+                  "security",
+                  "security-training",
+                  "vulnerable-app"
+                ]
+              },
+              "first_seen": "2026-09-24T06:56:48.327Z"
             }
           ],
           "description": null,
@@ -795,7 +837,7 @@
                 "open_issues": 848,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8207,
+                "stars": 8209,
                 "topics": [
                   "c",
                   "ios",
@@ -913,7 +955,7 @@
                 "open_issues": 2,
                 "owner": "Siguza",
                 "repo": "imobax",
-                "stars": 202,
+                "stars": 203,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:29.287Z"
@@ -928,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T06:59:07.129Z",
+    "last_updated": "2026-09-24T06:56:48.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
@@ -936,11 +978,11 @@
       "id": 29182759,
       "language": "Shell",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-15T18:20:59Z",
+      "last_commit": "2026-09-24T04:33:01Z",
       "open_issues": 0,
       "owner": "ashishb",
       "repo": "osx-and-ios-security-awesome",
-      "stars": 1739,
+      "stars": 1738,
       "topics": [
         "awesome",
         "awesome-list",
@@ -951,7 +993,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "64f2ef011190e8d61d24199589b41c29e06d7874",
+    "original_repository_sha": "bfbec40f6d30548bab04fc04454413447a5f4baf",
     "enhanced_repository": "enhansome/osx-and-ios-security-enhansome",
     "enhanced_repository_description": null,
     "title": "Awesome macOS and iOS Security Related Tools with stars"
