@@ -15,8 +15,8 @@
             "id": 22394357,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T16:04:49Z",
-            "open_issues": 605,
+            "last_commit": "2026-09-25T20:48:59Z",
+            "open_issues": 576,
             "owner": "osquery",
             "repo": "osquery",
             "stars": 23586,
@@ -139,7 +139,7 @@
             "open_issues": 10,
             "owner": "alichtman",
             "repo": "stronghold",
-            "stars": 1192,
+            "stars": 1193,
             "topics": [
               "command-line",
               "command-line-tool",
@@ -219,7 +219,7 @@
             "open_issues": 15,
             "owner": "rentzsch",
             "repo": "mach_inject",
-            "stars": 831,
+            "stars": 833,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -263,7 +263,7 @@
             "open_issues": 6,
             "owner": "Lennolium",
             "repo": "swiftGuard",
-            "stars": 469,
+            "stars": 470,
             "topics": [
               "anti-forensics",
               "defensive-security",
@@ -379,10 +379,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-09-15T05:42:04Z",
-            "open_issues": 3,
+            "open_issues": 5,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 152,
+            "stars": 153,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -659,7 +659,7 @@
                 "open_issues": 9,
                 "owner": "prateek147",
                 "repo": "DVIA-v2",
-                "stars": 1113,
+                "stars": 1114,
                 "topics": [
                   "ios-swift",
                   "jailbreak",
@@ -754,7 +754,7 @@
                 "id": 1360628525,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-09-24T16:36:36Z",
+                "last_commit": "2026-09-25T21:30:36Z",
                 "open_issues": 0,
                 "owner": "cpeoples",
                 "repo": "dvma",
@@ -807,7 +807,7 @@
                 "open_issues": 58,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9406,
+                "stars": 9408,
                 "topics": [
                   "android",
                   "framework",
@@ -837,7 +837,7 @@
                 "open_issues": 847,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8212,
+                "stars": 8214,
                 "topics": [
                   "c",
                   "ios",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T06:51:03.113Z",
+    "last_updated": "2026-09-26T06:51:47.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
