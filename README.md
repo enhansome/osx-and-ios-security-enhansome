@@ -19,9 +19,9 @@
 
 ## macOS Security
 
-1. [osquery](https://github.com/facebook/osquery) ⭐ 23,586 | 🐛 576 | 🌐 C++ | 📅 2026-09-25 - Cross-platform tool for data collection and forensic analysis.
+1. [osquery](https://github.com/facebook/osquery) ⭐ 23,588 | 🐛 578 | 🌐 C++ | 📅 2026-09-25 - Cross-platform tool for data collection and forensic analysis.
 2. [Santa](https://github.com/google/santa) ⚠️ Archived - Binary whitelisting/blacklisting system.
-3. [Malimite](https://github.com/LaurieWired/Malimite) ⭐ 3,195 | 🐛 14 | 🌐 Java | 📅 2025-08-26 - iOS and macOS Decompiler
+3. [Malimite](https://github.com/LaurieWired/Malimite) ⭐ 3,194 | 🐛 14 | 🌐 Java | 📅 2025-08-26 - iOS and macOS Decompiler
 4. [OSX auditor](https://github.com/jipegit/OSXAuditor) ⭐ 3,131 | 🐛 9 | 🌐 JavaScript | 📅 2020-07-27 - Forensic analysis.
 5. [OSX collector](https://github.com/Yelp/OSXCollector) ⚠️ Archived - Forensic analysis.
 6. [stronghold](https://github.com/alichtman/stronghold) ⭐ 1,193 | 🐛 10 | 🌐 Python | 📅 2025-02-24 - Easily configure macOS security settings from the terminal.
@@ -64,19 +64,19 @@ A collection of iOS security-related resources
 
 ### Testing apps
 
-1. [DVIA v2](https://github.com/prateek147/DVIA-v2) ⭐ 1,114 | 🐛 9 | 🌐 Swift | 📅 2024-03-29 - Damn Vulnerable iOS App v2 for learning
+1. [DVIA v2](https://github.com/prateek147/DVIA-v2) ⭐ 1,113 | 🐛 9 | 🌐 Swift | 📅 2024-03-29 - Damn Vulnerable iOS App v2 for learning
 2. [IDB](https://github.com/dmayer/idb) ⭐ 953 | 🐛 36 | 🌐 Ruby | 📅 2023-03-25 - iOS App Security Assessment Tool
 3. [iRET](https://github.com/S3Jensen/iRET) ⭐ 421 | 🐛 22 | 🌐 Shell | 📅 2024-06-14 - iOS Reverse Engineering Toolkit
 4. [EvilCorp iOS](https://github.com/jankesec/evilcorp-ios) ⭐ 2 | 🐛 0 | 🌐 Swift | 📅 2026-06-24 - An intentionally vulnerable iOS application built with SwiftUI for modern iOS security training (30 challenges mapped to OWASP MASVS).
-5. [DVMA](https://github.com/cpeoples/dvma) ⭐ 2 | 🐛 0 | 🌐 Dart | 📅 2026-09-25 - Damn Vulnerable Mobile App, an intentionally vulnerable Flutter app for Android and iOS
+5. [DVMA](https://github.com/cpeoples/dvma) ⭐ 2 | 🐛 0 | 🌐 Dart | 📅 2026-09-27 - Damn Vulnerable Mobile App, an intentionally vulnerable Flutter app for Android and iOS
 6. [DVIA](http://damnvulnerableiosapp.com/) - Damn Vulnerable iOS App for learning
 
 ### iOS Security Tools
 
-1. [objection](https://github.com/sensepost/objection) ⭐ 9,408 | 🐛 58 | 🌐 Python | 📅 2026-09-17 - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak
+1. [objection](https://github.com/sensepost/objection) ⭐ 9,407 | 🐛 58 | 🌐 Python | 📅 2026-09-17 - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak
 2. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,214 | 🐛 847 | 🌐 C | 📅 2026-06-10 - A cross-platform protocol library to communicate with iOS devices
 3. [Themis](https://github.com/cossacklabs/themis) ⭐ 1,975 | 🐛 31 | 🌐 C | 📅 2026-04-24 - a multi-platform programming library for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Recommended by OWASP MASVS.
-4. ~~[Needle](https://github.com/mwrlabs/needle) ⚠️ Archived - iOS App Pentesting Tool.~~ Abandoned in 2025. The devs recommend using [objection](https://github.com/sensepost/objection) ⭐ 9,408 | 🐛 58 | 🌐 Python | 📅 2026-09-17 instead
+4. ~~[Needle](https://github.com/mwrlabs/needle) ⚠️ Archived - iOS App Pentesting Tool.~~ Abandoned in 2025. The devs recommend using [objection](https://github.com/sensepost/objection) ⭐ 9,407 | 🐛 58 | 🌐 Python | 📅 2026-09-17 instead
 5. [iMessage Fuzzing](https://github.com/googleprojectzero/iOS-messaging-tools) ⚠️ Archived - iMessage fuzzing tools from Google's Project Zero
 6. [imobax](https://github.com/Siguza/imobax) ⭐ 203 | 🐛 2 | 🌐 C | 📅 2022-05-28 - iOS Mobile Backup Extractor
 7. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) is an enterprise tool for mobile app security testing. Lab Automated features dynamic and static analysis on real devices in the cloud and returns results in minutes.
@@ -106,4 +106,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
