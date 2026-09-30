@@ -1,9 +1,9 @@
 # Awesome macOS and iOS Security Related Tools with stars
 
-[![Test](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/test.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/test.yaml) ⭐ 1,740 | 🐛 0 | 🌐 Shell | 📅 2026-09-24
-[![Lint Markdown](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-markdown.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-markdown.yaml) ⭐ 1,740 | 🐛 0 | 🌐 Shell | 📅 2026-09-24
-[![Lint Shell scripts](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-shell-script.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-shell-script.yaml) ⭐ 1,740 | 🐛 0 | 🌐 Shell | 📅 2026-09-24
-[![Lint YAML](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-yaml.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-yaml.yaml) ⭐ 1,740 | 🐛 0 | 🌐 Shell | 📅 2026-09-24
+[![Test](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/test.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/test.yaml) ⭐ 1,741 | 🐛 0 | 🌐 Shell | 📅 2026-09-24
+[![Lint Markdown](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-markdown.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-markdown.yaml) ⭐ 1,741 | 🐛 0 | 🌐 Shell | 📅 2026-09-24
+[![Lint Shell scripts](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-shell-script.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-shell-script.yaml) ⭐ 1,741 | 🐛 0 | 🌐 Shell | 📅 2026-09-24
+[![Lint YAML](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-yaml.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-yaml.yaml) ⭐ 1,741 | 🐛 0 | 🌐 Shell | 📅 2026-09-24
 
 ![GitHub contributors](https://img.shields.io/github/contributors/ashishb/osx-and-ios-security-awesome)
 
@@ -19,22 +19,22 @@
 
 ## macOS Security
 
-1. [osquery](https://github.com/facebook/osquery) ⭐ 23,591 | 🐛 578 | 🌐 C++ | 📅 2026-09-25 - Cross-platform tool for data collection and forensic analysis.
+1. [osquery](https://github.com/facebook/osquery) ⭐ 23,591 | 🐛 579 | 🌐 C++ | 📅 2026-09-25 - Cross-platform tool for data collection and forensic analysis.
 2. [Santa](https://github.com/google/santa) ⚠️ Archived - Binary whitelisting/blacklisting system.
 3. [Malimite](https://github.com/LaurieWired/Malimite) ⭐ 3,197 | 🐛 14 | 🌐 Java | 📅 2025-08-26 - iOS and macOS Decompiler
 4. [OSX auditor](https://github.com/jipegit/OSXAuditor) ⭐ 3,131 | 🐛 9 | 🌐 JavaScript | 📅 2020-07-27 - Forensic analysis.
 5. [OSX collector](https://github.com/Yelp/OSXCollector) ⚠️ Archived - Forensic analysis.
-6. [stronghold](https://github.com/alichtman/stronghold) ⭐ 1,194 | 🐛 10 | 🌐 Python | 📅 2025-02-24 - Easily configure macOS security settings from the terminal.
-7. [mac\_apt](https://github.com/ydkhatri/mac_apt) ⭐ 1,087 | 🐛 9 | 🌐 Python | 📅 2026-08-21 - macOS Artifact Parsing Tool for forensic analysis.
-8. [macOS (& iOS) Artifact Parsing Tool](https://github.com/ydkhatri/mac_apt) ⭐ 1,087 | 🐛 9 | 🌐 Python | 📅 2026-08-21 - mac\_apt is a DFIR (Digital Forensics and Incident Response) tool to process Mac computer full disk images (or live machines) and extract data/metadata useful for forensic investigation.
+6. [stronghold](https://github.com/alichtman/stronghold) ⭐ 1,195 | 🐛 10 | 🌐 Python | 📅 2025-02-24 - Easily configure macOS security settings from the terminal.
+7. [mac\_apt](https://github.com/ydkhatri/mac_apt) ⭐ 1,087 | 🐛 9 | 🌐 Python | 📅 2026-09-29 - macOS Artifact Parsing Tool for forensic analysis.
+8. [macOS (& iOS) Artifact Parsing Tool](https://github.com/ydkhatri/mac_apt) ⭐ 1,087 | 🐛 9 | 🌐 Python | 📅 2026-09-29 - mac\_apt is a DFIR (Digital Forensics and Incident Response) tool to process Mac computer full disk images (or live machines) and extract data/metadata useful for forensic investigation.
 9. [Mach inject](https://github.com/rentzsch/mach_inject) ⭐ 833 | 🐛 15 | 🌐 C | 📅 2016-11-08 - Inter process code injection for macOS.
 10. ~~[MIDAS](https://github.com/etsy/MIDAS) ⚠️ Archived - macOS Intrusion Detection Analysis System.~~ Abandoned.
-11. [swiftGuard](https://github.com/Lennolium/swiftGuard) ⭐ 469 | 🐛 6 | 🌐 Python | 📅 2025-02-10 - A lightweight app that safeguards your System's USB Ports from any Unauthorized Access and performs various countermeasures.
+11. [swiftGuard](https://github.com/Lennolium/swiftGuard) ⭐ 470 | 🐛 6 | 🌐 Python | 📅 2025-02-10 - A lightweight app that safeguards your System's USB Ports from any Unauthorized Access and performs various countermeasures.
 12. [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) ⭐ 457 | 🐛 8 | 🌐 Swift | 📅 2026-09-22 - A MenuBar app to automatically audit your Mac for basic security hygiene.
 13. [Crashwalk](https://github.com/bnagy/crashwalk) ⭐ 362 | 🐛 10 | 🌐 Go | 📅 2024-10-19 - Bucket and triage on-disk crashes
 14. [Mac4n6](https://github.com/pstirparo/mac4n6) ⭐ 347 | 🐛 0 | 🌐 Python | 📅 2021-11-11 - A collection of macOS and iOS forensic artifacts.
 15. [PassiveFuzzFrameworks](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX) ⭐ 229 | 🐛 1 | 🌐 C | 📅 2017-10-18
-16. [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 153 | 🐛 5 | 🌐 Swift | 📅 2026-09-15 - macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
+16. [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 154 | 🐛 5 | 🌐 Swift | 📅 2026-09-15 - macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
 17. [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-09-24 - CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 18. [Masochist](https://github.com/squiffy/Masochist) ⚠️ Archived - Framework for creating XNU-based rootkits.
 19. [fort](https://github.com/djadmin/fort) ⭐ 79 | 🐛 0 | 🌐 Go | 📅 2026-07-09 - CLI to audit, fix, and prove macOS endpoint security. 15 checks, auto-remediation, SOC 2 evidence report. Single binary, no agent.
@@ -67,16 +67,16 @@ A collection of iOS security-related resources
 1. [DVIA v2](https://github.com/prateek147/DVIA-v2) ⭐ 1,113 | 🐛 9 | 🌐 Swift | 📅 2024-03-29 - Damn Vulnerable iOS App v2 for learning
 2. [IDB](https://github.com/dmayer/idb) ⭐ 953 | 🐛 36 | 🌐 Ruby | 📅 2023-03-25 - iOS App Security Assessment Tool
 3. [iRET](https://github.com/S3Jensen/iRET) ⭐ 421 | 🐛 22 | 🌐 Shell | 📅 2024-06-14 - iOS Reverse Engineering Toolkit
-4. [DVMA](https://github.com/cpeoples/dvma) ⭐ 3 | 🐛 0 | 🌐 Dart | 📅 2026-09-27 - Damn Vulnerable Mobile App, an intentionally vulnerable Flutter app for Android and iOS
+4. [DVMA](https://github.com/cpeoples/dvma) ⭐ 3 | 🐛 0 | 🌐 Dart | 📅 2026-09-29 - Damn Vulnerable Mobile App, an intentionally vulnerable Flutter app for Android and iOS
 5. [EvilCorp iOS](https://github.com/jankesec/evilcorp-ios) ⭐ 2 | 🐛 0 | 🌐 Swift | 📅 2026-06-24 - An intentionally vulnerable iOS application built with SwiftUI for modern iOS security training (30 challenges mapped to OWASP MASVS).
 6. [DVIA](http://damnvulnerableiosapp.com/) - Damn Vulnerable iOS App for learning
 
 ### iOS Security Tools
 
-1. [objection](https://github.com/sensepost/objection) ⭐ 9,416 | 🐛 58 | 🌐 Python | 📅 2026-09-17 - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak
-2. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,218 | 🐛 847 | 🌐 C | 📅 2026-06-10 - A cross-platform protocol library to communicate with iOS devices
-3. [Themis](https://github.com/cossacklabs/themis) ⭐ 1,975 | 🐛 31 | 🌐 C | 📅 2026-04-24 - a multi-platform programming library for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Recommended by OWASP MASVS.
-4. ~~[Needle](https://github.com/mwrlabs/needle) ⚠️ Archived - iOS App Pentesting Tool.~~ Abandoned in 2025. The devs recommend using [objection](https://github.com/sensepost/objection) ⭐ 9,416 | 🐛 58 | 🌐 Python | 📅 2026-09-17 instead
+1. [objection](https://github.com/sensepost/objection) ⭐ 9,418 | 🐛 58 | 🌐 Python | 📅 2026-09-17 - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak
+2. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,219 | 🐛 847 | 🌐 C | 📅 2026-06-10 - A cross-platform protocol library to communicate with iOS devices
+3. [Themis](https://github.com/cossacklabs/themis) ⭐ 1,976 | 🐛 31 | 🌐 C | 📅 2026-04-24 - a multi-platform programming library for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Recommended by OWASP MASVS.
+4. ~~[Needle](https://github.com/mwrlabs/needle) ⚠️ Archived - iOS App Pentesting Tool.~~ Abandoned in 2025. The devs recommend using [objection](https://github.com/sensepost/objection) ⭐ 9,418 | 🐛 58 | 🌐 Python | 📅 2026-09-17 instead
 5. [iMessage Fuzzing](https://github.com/googleprojectzero/iOS-messaging-tools) ⚠️ Archived - iMessage fuzzing tools from Google's Project Zero
 6. [imobax](https://github.com/Siguza/imobax) ⭐ 203 | 🐛 2 | 🌐 C | 📅 2022-05-28 - iOS Mobile Backup Extractor
 7. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) is an enterprise tool for mobile app security testing. Lab Automated features dynamic and static analysis on real devices in the cloud and returns results in minutes.
@@ -106,4 +106,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
