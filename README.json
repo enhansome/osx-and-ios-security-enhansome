@@ -15,11 +15,11 @@
             "id": 22394357,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T22:17:42Z",
-            "open_issues": 580,
+            "last_commit": "2026-10-02T21:25:46Z",
+            "open_issues": 578,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23599,
+            "stars": 23605,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -46,7 +46,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "santa",
-            "stars": 4506,
+            "stars": 4504,
             "topics": [
               "allowlist",
               "authorization",
@@ -76,7 +76,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3199,
+            "stars": 3200,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -219,7 +219,7 @@
             "open_issues": 15,
             "owner": "rentzsch",
             "repo": "mach_inject",
-            "stars": 833,
+            "stars": 832,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -348,7 +348,7 @@
         {
           "node_type": "item",
           "title": "PassiveFuzzFrameworks",
-          "description": null,
+          "description": "SilverMoonSecurity/PassiveFuzzFrameworkOSX",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -416,7 +416,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-01T18:25:23Z",
+            "last_commit": "2026-10-02T10:32:32Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -659,7 +659,7 @@
                 "open_issues": 9,
                 "owner": "prateek147",
                 "repo": "DVIA-v2",
-                "stars": 1115,
+                "stars": 1116,
                 "topics": [
                   "ios-swift",
                   "jailbreak",
@@ -725,7 +725,7 @@
                 "id": 1360628525,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-10-02T07:40:11Z",
+                "last_commit": "2026-10-02T08:04:38Z",
                 "open_issues": 0,
                 "owner": "cpeoples",
                 "repo": "dvma",
@@ -837,7 +837,7 @@
                 "open_issues": 848,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8221,
+                "stars": 8226,
                 "topics": [
                   "c",
                   "ios",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:44:33.210Z",
+    "last_updated": "2026-10-03T05:16:08.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
@@ -982,7 +982,7 @@
       "open_issues": 0,
       "owner": "ashishb",
       "repo": "osx-and-ios-security-awesome",
-      "stars": 1742,
+      "stars": 1743,
       "topics": [
         "awesome",
         "awesome-list",
