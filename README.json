@@ -19,7 +19,7 @@
             "open_issues": 578,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23608,
+            "stars": 23609,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -76,7 +76,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3201,
+            "stars": 3202,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -416,7 +416,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-03T09:54:22Z",
+            "last_commit": "2026-10-04T10:36:32Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -659,7 +659,7 @@
                 "open_issues": 9,
                 "owner": "prateek147",
                 "repo": "DVIA-v2",
-                "stars": 1116,
+                "stars": 1117,
                 "topics": [
                   "ios-swift",
                   "jailbreak",
@@ -685,7 +685,7 @@
                 "open_issues": 36,
                 "owner": "dmayer",
                 "repo": "idb",
-                "stars": 953,
+                "stars": 954,
                 "topics": [
                   "project"
                 ]
@@ -729,7 +729,7 @@
                 "open_issues": 0,
                 "owner": "cpeoples",
                 "repo": "dvma",
-                "stars": 3,
+                "stars": 5,
                 "topics": [
                   "agentic-ai",
                   "ai-security",
@@ -807,7 +807,7 @@
                 "open_issues": 58,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9422,
+                "stars": 9424,
                 "topics": [
                   "android",
                   "framework",
@@ -837,7 +837,7 @@
                 "open_issues": 848,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8228,
+                "stars": 8229,
                 "topics": [
                   "c",
                   "ios",
@@ -864,7 +864,7 @@
                 "open_issues": 31,
                 "owner": "cossacklabs",
                 "repo": "themis",
-                "stars": 1977,
+                "stars": 1976,
                 "topics": [
                   "asymmetric-cryptography",
                   "authentication",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T07:34:54.654Z",
+    "last_updated": "2026-10-05T07:56:29.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
@@ -982,7 +982,7 @@
       "open_issues": 0,
       "owner": "ashishb",
       "repo": "osx-and-ios-security-awesome",
-      "stars": 1743,
+      "stars": 1745,
       "topics": [
         "awesome",
         "awesome-list",
