@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T21:25:46Z",
-            "open_issues": 578,
+            "open_issues": 575,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23609,
+            "stars": 23614,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -288,8 +288,8 @@
             "id": 385891121,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T09:08:39Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-06T06:59:02Z",
+            "open_issues": 8,
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
             "stars": 458,
@@ -340,7 +340,7 @@
             "open_issues": 0,
             "owner": "pstirparo",
             "repo": "mac4n6",
-            "stars": 347,
+            "stars": 343,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -416,11 +416,11 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-04T10:36:32Z",
+            "last_commit": "2026-10-05T11:33:56Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
-            "stars": 130,
+            "stars": 129,
             "topics": [
               "bash",
               "cli",
@@ -807,7 +807,7 @@
                 "open_issues": 58,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9424,
+                "stars": 9426,
                 "topics": [
                   "android",
                   "framework",
@@ -837,7 +837,7 @@
                 "open_issues": 848,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8229,
+                "stars": 8230,
                 "topics": [
                   "c",
                   "ios",
@@ -864,7 +864,7 @@
                 "open_issues": 31,
                 "owner": "cossacklabs",
                 "repo": "themis",
-                "stars": 1976,
+                "stars": 1975,
                 "topics": [
                   "asymmetric-cryptography",
                   "authentication",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T07:56:29.650Z",
+    "last_updated": "2026-10-06T08:19:18.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
