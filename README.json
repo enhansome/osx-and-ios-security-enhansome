@@ -19,7 +19,7 @@
             "open_issues": 575,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23614,
+            "stars": 23615,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -76,7 +76,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3202,
+            "stars": 3204,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:19:18.318Z",
+    "last_updated": "2026-10-06T11:08:50.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",

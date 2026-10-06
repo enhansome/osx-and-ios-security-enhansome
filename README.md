@@ -19,9 +19,9 @@
 
 ## macOS Security
 
-1. [osquery](https://github.com/facebook/osquery) ⭐ 23,614 | 🐛 575 | 🌐 C++ | 📅 2026-10-02 - Cross-platform tool for data collection and forensic analysis.
+1. [osquery](https://github.com/facebook/osquery) ⭐ 23,615 | 🐛 575 | 🌐 C++ | 📅 2026-10-02 - Cross-platform tool for data collection and forensic analysis.
 2. [Santa](https://github.com/google/santa) ⚠️ Archived - Binary whitelisting/blacklisting system.
-3. [Malimite](https://github.com/LaurieWired/Malimite) ⭐ 3,202 | 🐛 14 | 🌐 Java | 📅 2025-08-26 - iOS and macOS Decompiler
+3. [Malimite](https://github.com/LaurieWired/Malimite) ⭐ 3,204 | 🐛 14 | 🌐 Java | 📅 2025-08-26 - iOS and macOS Decompiler
 4. [OSX auditor](https://github.com/jipegit/OSXAuditor) ⭐ 3,131 | 🐛 9 | 🌐 JavaScript | 📅 2020-07-27 - Forensic analysis.
 5. [OSX collector](https://github.com/Yelp/OSXCollector) ⚠️ Archived - Forensic analysis.
 6. [stronghold](https://github.com/alichtman/stronghold) ⭐ 1,195 | 🐛 10 | 🌐 Python | 📅 2025-02-24 - Easily configure macOS security settings from the terminal.
