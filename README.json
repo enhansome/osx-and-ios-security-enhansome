@@ -15,11 +15,11 @@
             "id": 1209966933,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T08:40:35Z",
-            "open_issues": 562,
+            "last_commit": "2026-10-14T06:52:55Z",
+            "open_issues": 549,
             "owner": "morluto",
             "repo": "rea",
-            "stars": 178696,
+            "stars": 218321,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -31,7 +31,6 @@
               "ctf",
               "decompiler",
               "developer-tools",
-              "disassembler",
               "dsh",
               "dsh-plugin",
               "ghidra",
@@ -39,6 +38,7 @@
               "llm",
               "mcp",
               "model-context-protocol",
+              "rea",
               "reverse-engineering",
               "static-analysis"
             ]
@@ -58,10 +58,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-10T00:56:48Z",
-            "open_issues": 585,
+            "open_issues": 593,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23641,
+            "stars": 23646,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -88,7 +88,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "santa",
-            "stars": 4503,
+            "stars": 4501,
             "topics": [
               "allowlist",
               "authorization",
@@ -118,7 +118,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3218,
+            "stars": 3220,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -211,7 +211,7 @@
             "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1089,
+            "stars": 1091,
             "topics": [
               "dfir",
               "forensics",
@@ -236,7 +236,7 @@
             "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1089,
+            "stars": 1091,
             "topics": [
               "dfir",
               "forensics",
@@ -420,7 +420,7 @@
             "id": 1186242047,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-07T13:45:19Z",
+            "last_commit": "2026-10-13T12:27:27Z",
             "open_issues": 2,
             "owner": "sorkila",
             "repo": "lockpaw",
@@ -461,7 +461,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-12T12:05:10Z",
+            "last_commit": "2026-10-13T11:51:50Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -882,7 +882,7 @@
                 "open_issues": 846,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8251,
+                "stars": 8256,
                 "topics": [
                   "c",
                   "ios",
@@ -1015,7 +1015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T08:42:53.569Z",
+    "last_updated": "2026-10-14T06:54:01.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
@@ -1023,11 +1023,11 @@
       "id": 29182759,
       "language": "Shell",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-11T05:38:17Z",
+      "last_commit": "2026-10-13T21:51:56Z",
       "open_issues": 0,
       "owner": "ashishb",
       "repo": "osx-and-ios-security-awesome",
-      "stars": 1752,
+      "stars": 1754,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1038,7 +1038,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "9d74e6b8bd6c41bb9fd246612599e6d6884e95d7",
+    "original_repository_sha": "895a085e64a97b3f360b5dde17da130b159f89ad",
     "enhanced_repository": "enhansome/osx-and-ios-security-enhansome",
     "enhanced_repository_description": null,
     "title": "Awesome macOS and iOS Security Related Tools with stars"
