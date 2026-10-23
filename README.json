@@ -15,11 +15,11 @@
             "id": 1209966933,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T06:40:22Z",
-            "open_issues": 1650,
+            "last_commit": "2026-10-23T06:44:24Z",
+            "open_issues": 1621,
             "owner": "morluto",
             "repo": "rea",
-            "stars": 360085,
+            "stars": 368181,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -57,11 +57,11 @@
             "id": 22394357,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T02:10:52Z",
-            "open_issues": 576,
+            "last_commit": "2026-10-23T04:31:54Z",
+            "open_issues": 574,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23660,
+            "stars": 23663,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -88,7 +88,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "santa",
-            "stars": 4499,
+            "stars": 4498,
             "topics": [
               "allowlist",
               "authorization",
@@ -118,7 +118,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3225,
+            "stars": 3228,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -330,8 +330,8 @@
             "id": 385891121,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-17T00:58:56Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-22T22:38:10Z",
+            "open_issues": 10,
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
             "stars": 459,
@@ -382,7 +382,7 @@
             "open_issues": 0,
             "owner": "pstirparo",
             "repo": "mac4n6",
-            "stars": 344,
+            "stars": 345,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -421,10 +421,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-10-21T06:53:31Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 163,
+            "stars": 165,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -461,7 +461,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-21T09:24:00Z",
+            "last_commit": "2026-10-22T09:26:54Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -704,7 +704,7 @@
                 "open_issues": 9,
                 "owner": "prateek147",
                 "repo": "DVIA-v2",
-                "stars": 1122,
+                "stars": 1123,
                 "topics": [
                   "ios-swift",
                   "jailbreak",
@@ -882,7 +882,7 @@
                 "open_issues": 850,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8281,
+                "stars": 8283,
                 "topics": [
                   "c",
                   "ios",
@@ -909,7 +909,7 @@
                 "open_issues": 31,
                 "owner": "cossacklabs",
                 "repo": "themis",
-                "stars": 1977,
+                "stars": 1979,
                 "topics": [
                   "asymmetric-cryptography",
                   "authentication",
@@ -1013,11 +1013,11 @@
               "repo_info": {
                 "archived": false,
                 "description": "Like lazygit, but for your iPhone. Terminal UI for syslog, processes, apps, packet capture and network conditions over USB. Windows, macOS, Linux. No jailbreak, no Xcode, no admin.",
-                "homepage": null,
+                "homepage": "https://pypi.org/project/lazyios/",
                 "id": 1425014667,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T04:54:21Z",
+                "last_commit": "2026-10-23T05:03:49Z",
                 "open_issues": 0,
                 "owner": "Manuel-1312",
                 "repo": "lazyios",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T06:49:30.631Z",
+    "last_updated": "2026-10-23T06:44:44.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
