@@ -15,11 +15,11 @@
             "id": 1209966933,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T07:06:28Z",
-            "open_issues": 1040,
+            "last_commit": "2026-10-26T07:10:35Z",
+            "open_issues": 1105,
             "owner": "morluto",
             "repo": "rea",
-            "stars": 380077,
+            "stars": 386500,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -58,10 +58,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-23T04:31:54Z",
-            "open_issues": 577,
+            "open_issues": 580,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23672,
+            "stars": 23678,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -118,7 +118,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3225,
+            "stars": 3228,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -139,7 +139,7 @@
             "open_issues": 9,
             "owner": "jipegit",
             "repo": "OSXAuditor",
-            "stars": 3130,
+            "stars": 3129,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -177,7 +177,7 @@
             "id": 125603504,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2025-02-24T07:31:58Z",
+            "last_commit": "2026-10-26T05:13:43Z",
             "open_issues": 10,
             "owner": "alichtman",
             "repo": "stronghold",
@@ -211,7 +211,7 @@
             "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1095,
+            "stars": 1096,
             "topics": [
               "dfir",
               "forensics",
@@ -236,7 +236,7 @@
             "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1095,
+            "stars": 1096,
             "topics": [
               "dfir",
               "forensics",
@@ -330,7 +330,7 @@
             "id": 385891121,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-22T22:38:10Z",
+            "last_commit": "2026-10-25T21:50:22Z",
             "open_issues": 10,
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
@@ -461,7 +461,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-24T08:54:44Z",
+            "last_commit": "2026-10-25T09:11:35Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -519,7 +519,7 @@
             "open_issues": 0,
             "owner": "djadmin",
             "repo": "fort",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "audit",
               "claude",
@@ -704,7 +704,7 @@
                 "open_issues": 9,
                 "owner": "prateek147",
                 "repo": "DVIA-v2",
-                "stars": 1129,
+                "stars": 1130,
                 "topics": [
                   "ios-swift",
                   "jailbreak",
@@ -852,7 +852,7 @@
                 "open_issues": 59,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9461,
+                "stars": 9460,
                 "topics": [
                   "android",
                   "framework",
@@ -879,10 +879,10 @@
                 "language": "C",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-06-10T07:52:18Z",
-                "open_issues": 850,
+                "open_issues": 849,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8288,
+                "stars": 8291,
                 "topics": [
                   "c",
                   "ios",
@@ -909,7 +909,7 @@
                 "open_issues": 31,
                 "owner": "cossacklabs",
                 "repo": "themis",
-                "stars": 1979,
+                "stars": 1980,
                 "topics": [
                   "asymmetric-cryptography",
                   "authentication",
@@ -1021,7 +1021,7 @@
                 "open_issues": 0,
                 "owner": "Manuel-1312",
                 "repo": "lazyios",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "cli",
                   "developer-mode",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:06:35.723Z",
+    "last_updated": "2026-10-26T07:13:33.562Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
