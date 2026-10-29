@@ -15,11 +15,11 @@
             "id": 1209966933,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T07:43:55Z",
-            "open_issues": 1384,
+            "last_commit": "2026-10-29T07:48:45Z",
+            "open_issues": 1302,
             "owner": "morluto",
             "repo": "rea",
-            "stars": 398940,
+            "stars": 404315,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -57,11 +57,11 @@
             "id": 22394357,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T02:31:57Z",
-            "open_issues": 576,
+            "last_commit": "2026-10-29T01:21:49Z",
+            "open_issues": 572,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23695,
+            "stars": 23698,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -88,7 +88,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "santa",
-            "stars": 4498,
+            "stars": 4497,
             "topics": [
               "allowlist",
               "authorization",
@@ -139,7 +139,7 @@
             "open_issues": 9,
             "owner": "jipegit",
             "repo": "OSXAuditor",
-            "stars": 3129,
+            "stars": 3128,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -181,7 +181,7 @@
             "open_issues": 11,
             "owner": "alichtman",
             "repo": "stronghold",
-            "stars": 1197,
+            "stars": 1196,
             "topics": [
               "command-line",
               "command-line-tool",
@@ -208,10 +208,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-27T12:34:44Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1097,
+            "stars": 1098,
             "topics": [
               "dfir",
               "forensics",
@@ -233,10 +233,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-27T12:34:44Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1097,
+            "stars": 1098,
             "topics": [
               "dfir",
               "forensics",
@@ -334,7 +334,7 @@
             "open_issues": 11,
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
-            "stars": 459,
+            "stars": 460,
             "topics": [
               "endpoint-security",
               "macos",
@@ -421,10 +421,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-10-26T12:26:42Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 165,
+            "stars": 166,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -461,7 +461,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-27T09:51:12Z",
+            "last_commit": "2026-10-28T10:37:40Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -852,7 +852,7 @@
                 "open_issues": 54,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9468,
+                "stars": 9471,
                 "topics": [
                   "android",
                   "framework",
@@ -882,7 +882,7 @@
                 "open_issues": 849,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8294,
+                "stars": 8295,
                 "topics": [
                   "c",
                   "ios",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T07:44:07.877Z",
+    "last_updated": "2026-10-29T07:49:00.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
@@ -1069,7 +1069,7 @@
       "open_issues": 1,
       "owner": "ashishb",
       "repo": "osx-and-ios-security-awesome",
-      "stars": 1765,
+      "stars": 1764,
       "topics": [
         "awesome",
         "awesome-list",
