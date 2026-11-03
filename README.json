@@ -15,11 +15,11 @@
             "id": 1209966933,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T08:32:30Z",
-            "open_issues": 1625,
+            "last_commit": "2026-11-03T08:49:32Z",
+            "open_issues": 1652,
             "owner": "morluto",
             "repo": "rea",
-            "stars": 420235,
+            "stars": 424446,
             "topics": [
               "agent-skills",
               "ai",
@@ -57,11 +57,11 @@
             "id": 22394357,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T06:05:06Z",
-            "open_issues": 572,
+            "last_commit": "2026-11-02T23:40:17Z",
+            "open_issues": 574,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23712,
+            "stars": 23716,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -305,7 +305,7 @@
             "open_issues": 6,
             "owner": "Lennolium",
             "repo": "swiftGuard",
-            "stars": 470,
+            "stars": 471,
             "topics": [
               "anti-forensics",
               "defensive-security",
@@ -330,11 +330,11 @@
             "id": 385891121,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-01T21:28:00Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-03T07:56:37Z",
+            "open_issues": 10,
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
-            "stars": 461,
+            "stars": 462,
             "topics": [
               "endpoint-security",
               "macos",
@@ -382,7 +382,7 @@
             "open_issues": 0,
             "owner": "pstirparo",
             "repo": "mac4n6",
-            "stars": 345,
+            "stars": 346,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -424,7 +424,7 @@
             "open_issues": 7,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 170,
+            "stars": 172,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -461,7 +461,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-01T11:18:58Z",
+            "last_commit": "2026-11-02T12:31:33Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -852,7 +852,7 @@
                 "open_issues": 54,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9479,
+                "stars": 9481,
                 "topics": [
                   "android",
                   "framework",
@@ -882,7 +882,7 @@
                 "open_issues": 850,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8309,
+                "stars": 8313,
                 "topics": [
                   "c",
                   "ios",
@@ -909,7 +909,7 @@
                 "open_issues": 31,
                 "owner": "cossacklabs",
                 "repo": "themis",
-                "stars": 1982,
+                "stars": 1983,
                 "topics": [
                   "asymmetric-cryptography",
                   "authentication",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T08:38:06.527Z",
+    "last_updated": "2026-11-03T08:49:53.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
@@ -1069,7 +1069,7 @@
       "open_issues": 0,
       "owner": "ashishb",
       "repo": "osx-and-ios-security-awesome",
-      "stars": 1766,
+      "stars": 1767,
       "topics": [
         "awesome",
         "awesome-list",
