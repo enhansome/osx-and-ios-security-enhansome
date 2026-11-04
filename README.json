@@ -15,11 +15,11 @@
             "id": 1209966933,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T08:49:32Z",
-            "open_issues": 1652,
+            "last_commit": "2026-11-04T08:12:35Z",
+            "open_issues": 1731,
             "owner": "morluto",
             "repo": "rea",
-            "stars": 424446,
+            "stars": 428436,
             "topics": [
               "agent-skills",
               "ai",
@@ -58,10 +58,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T23:40:17Z",
-            "open_issues": 574,
+            "open_issues": 586,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23716,
+            "stars": 23721,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -118,7 +118,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3234,
+            "stars": 3233,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -181,7 +181,7 @@
             "open_issues": 11,
             "owner": "alichtman",
             "repo": "stronghold",
-            "stars": 1196,
+            "stars": 1195,
             "topics": [
               "command-line",
               "command-line-tool",
@@ -330,8 +330,8 @@
             "id": 385891121,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-03T07:56:37Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-04T08:09:25Z",
+            "open_issues": 12,
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
             "stars": 462,
@@ -424,7 +424,7 @@
             "open_issues": 7,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 172,
+            "stars": 174,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -461,7 +461,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-02T12:31:33Z",
+            "last_commit": "2026-11-03T11:59:08Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -770,7 +770,7 @@
                 "id": 1360628525,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-11-01T20:11:18Z",
+                "last_commit": "2026-11-03T14:20:35Z",
                 "open_issues": 0,
                 "owner": "cpeoples",
                 "repo": "dvma",
@@ -882,7 +882,7 @@
                 "open_issues": 850,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8313,
+                "stars": 8316,
                 "topics": [
                   "c",
                   "ios",
@@ -951,7 +951,7 @@
                 "open_issues": 25,
                 "owner": "ReversecLabs",
                 "repo": "needle",
-                "stars": 1403,
+                "stars": 1404,
                 "topics": [
                   "ios",
                   "mobile",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T08:49:53.040Z",
+    "last_updated": "2026-11-04T08:18:39.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
