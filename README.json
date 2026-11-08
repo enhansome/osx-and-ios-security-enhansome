@@ -15,11 +15,11 @@
             "id": 1209966933,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T07:53:00Z",
-            "open_issues": 1619,
+            "last_commit": "2026-11-08T07:16:34Z",
+            "open_issues": 1611,
             "owner": "morluto",
             "repo": "rea",
-            "stars": 438878,
+            "stars": 441844,
             "topics": [
               "agent-skills",
               "ai",
@@ -58,10 +58,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-06T08:19:27Z",
-            "open_issues": 595,
+            "open_issues": 601,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23740,
+            "stars": 23745,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -88,7 +88,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "santa",
-            "stars": 4497,
+            "stars": 4498,
             "topics": [
               "allowlist",
               "authorization",
@@ -420,11 +420,11 @@
             "id": 1186242047,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-26T12:26:42Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-07T18:18:06Z",
+            "open_issues": 8,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 174,
+            "stars": 176,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -461,7 +461,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-06T13:05:37Z",
+            "last_commit": "2026-11-07T11:07:19Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -852,7 +852,7 @@
                 "open_issues": 55,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9488,
+                "stars": 9492,
                 "topics": [
                   "android",
                   "framework",
@@ -882,7 +882,7 @@
                 "open_issues": 850,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8322,
+                "stars": 8325,
                 "topics": [
                   "c",
                   "ios",
@@ -951,7 +951,7 @@
                 "open_issues": 25,
                 "owner": "ReversecLabs",
                 "repo": "needle",
-                "stars": 1404,
+                "stars": 1403,
                 "topics": [
                   "ios",
                   "mobile",
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T08:00:12.912Z",
+    "last_updated": "2026-11-08T08:19:23.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",

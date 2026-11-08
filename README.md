@@ -19,8 +19,8 @@
 
 ## macOS Security
 
-1. [REA](https://github.com/morluto/rea) ⭐ 438,878 | 🐛 1,619 | 🌐 TypeScript | 📅 2026-11-07 - Local CLI and MCP tools for agent-assisted inspection of macOS application bundles, Mach-O binaries, and Electron apps, with evidence provenance; native deep analysis uses separately installed Hopper, Ghidra, or IDA.
-2. [osquery](https://github.com/facebook/osquery) ⭐ 23,740 | 🐛 595 | 🌐 C++ | 📅 2026-11-06 - Cross-platform tool for data collection and forensic analysis.
+1. [REA](https://github.com/morluto/rea) ⭐ 441,844 | 🐛 1,611 | 🌐 TypeScript | 📅 2026-11-08 - Local CLI and MCP tools for agent-assisted inspection of macOS application bundles, Mach-O binaries, and Electron apps, with evidence provenance; native deep analysis uses separately installed Hopper, Ghidra, or IDA.
+2. [osquery](https://github.com/facebook/osquery) ⭐ 23,745 | 🐛 601 | 🌐 C++ | 📅 2026-11-06 - Cross-platform tool for data collection and forensic analysis.
 3. [Santa](https://github.com/google/santa) ⚠️ Archived - Binary whitelisting/blacklisting system.
 4. [Malimite](https://github.com/LaurieWired/Malimite) ⭐ 3,234 | 🐛 14 | 🌐 Java | 📅 2025-08-26 - iOS and macOS Decompiler
 5. [OSX auditor](https://github.com/jipegit/OSXAuditor) ⭐ 3,128 | 🐛 9 | 🌐 JavaScript | 📅 2020-07-27 - Forensic analysis.
@@ -35,8 +35,8 @@
 14. [Crashwalk](https://github.com/bnagy/crashwalk) ⭐ 362 | 🐛 10 | 🌐 Go | 📅 2024-10-19 - Bucket and triage on-disk crashes
 15. [Mac4n6](https://github.com/pstirparo/mac4n6) ⭐ 346 | 🐛 0 | 🌐 Python | 📅 2021-11-11 - A collection of macOS and iOS forensic artifacts.
 16. [PassiveFuzzFrameworks](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX) ⭐ 229 | 🐛 1 | 🌐 C | 📅 2017-10-18
-17. [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 174 | 🐛 9 | 🌐 Swift | 📅 2026-10-26 - macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
-18. [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 131 | 🐛 1 | 🌐 Shell | 📅 2026-11-06 - CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
+17. [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 176 | 🐛 8 | 🌐 Swift | 📅 2026-11-07 - macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
+18. [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 131 | 🐛 1 | 🌐 Shell | 📅 2026-11-07 - CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 19. [Masochist](https://github.com/squiffy/Masochist) ⚠️ Archived - Framework for creating XNU-based rootkits.
 20. [fort](https://github.com/djadmin/fort) ⭐ 82 | 🐛 0 | 🌐 Go | 📅 2026-07-09 - CLI to audit, fix, and prove macOS endpoint security. 15 checks, auto-remediation, SOC 2 evidence report. Single binary, no agent.
 21. [Task vaccine](https://github.com/rodionovd/task_vaccine) ⭐ 55 | 🐛 4 | 🌐 C | 📅 2015-03-02 - Similar to mach inject.
@@ -75,10 +75,10 @@ A collection of iOS security-related resources
 
 ### iOS Security Tools
 
-1. [objection](https://github.com/sensepost/objection) ⭐ 9,488 | 🐛 55 | 🌐 Python | 📅 2026-10-27 - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak
-2. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,322 | 🐛 850 | 🌐 C | 📅 2026-06-10 - A cross-platform protocol library to communicate with iOS devices
+1. [objection](https://github.com/sensepost/objection) ⭐ 9,492 | 🐛 55 | 🌐 Python | 📅 2026-10-27 - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak
+2. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,325 | 🐛 850 | 🌐 C | 📅 2026-06-10 - A cross-platform protocol library to communicate with iOS devices
 3. [Themis](https://github.com/cossacklabs/themis) ⭐ 1,984 | 🐛 31 | 🌐 C | 📅 2026-04-24 - a multi-platform programming library for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Recommended by OWASP MASVS.
-4. ~~[Needle](https://github.com/mwrlabs/needle) ⚠️ Archived - iOS App Pentesting Tool.~~ Abandoned in 2025. The devs recommend using [objection](https://github.com/sensepost/objection) ⭐ 9,488 | 🐛 55 | 🌐 Python | 📅 2026-10-27 instead
+4. ~~[Needle](https://github.com/mwrlabs/needle) ⚠️ Archived - iOS App Pentesting Tool.~~ Abandoned in 2025. The devs recommend using [objection](https://github.com/sensepost/objection) ⭐ 9,492 | 🐛 55 | 🌐 Python | 📅 2026-10-27 instead
 5. [iMessage Fuzzing](https://github.com/googleprojectzero/iOS-messaging-tools) ⚠️ Archived - iMessage fuzzing tools from Google's Project Zero
 6. [imobax](https://github.com/Siguza/imobax) ⭐ 203 | 🐛 2 | 🌐 C | 📅 2022-05-28 - iOS Mobile Backup Extractor
 7. [lazyios](https://github.com/Manuel-1312/lazyios) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-11-07 - Terminal UI that captures an iPhone's traffic over USB and maps each connection to its app, domain and tracker company, plus a basic device check (passcode, Developer Mode, profiles). No jailbreak
@@ -110,4 +110,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
