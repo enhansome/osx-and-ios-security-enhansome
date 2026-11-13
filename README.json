@@ -15,11 +15,11 @@
             "id": 1209966933,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T08:27:31Z",
-            "open_issues": 1724,
+            "last_commit": "2026-11-13T08:52:14Z",
+            "open_issues": 1801,
             "owner": "morluto",
             "repo": "rea",
-            "stars": 453706,
+            "stars": 456169,
             "topics": [
               "agent-skills",
               "ai",
@@ -57,11 +57,11 @@
             "id": 22394357,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T04:11:55Z",
-            "open_issues": 571,
+            "last_commit": "2026-11-12T21:17:43Z",
+            "open_issues": 578,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23757,
+            "stars": 23761,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -118,7 +118,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3239,
+            "stars": 3238,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -330,7 +330,7 @@
             "id": 385891121,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T07:38:41Z",
+            "last_commit": "2026-11-12T09:40:37Z",
             "open_issues": 7,
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
@@ -361,7 +361,7 @@
             "open_issues": 10,
             "owner": "bnagy",
             "repo": "crashwalk",
-            "stars": 363,
+            "stars": 364,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -420,11 +420,11 @@
             "id": 1186242047,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-11T13:36:35Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-12T12:43:33Z",
+            "open_issues": 10,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 178,
+            "stars": 179,
             "topics": [
               "ai-agents",
               "amphetamine-alternative",
@@ -462,11 +462,11 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-11T11:54:55Z",
+            "last_commit": "2026-11-12T12:49:27Z",
             "open_issues": 2,
             "owner": "thousandflowers",
             "repo": "Raccoon",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "bash",
               "cli",
@@ -853,7 +853,7 @@
                 "open_issues": 56,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9505,
+                "stars": 9506,
                 "topics": [
                   "android",
                   "framework",
@@ -883,7 +883,7 @@
                 "open_issues": 851,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8342,
+                "stars": 8346,
                 "topics": [
                   "c",
                   "ios",
@@ -1058,7 +1058,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T08:58:03.978Z",
+    "last_updated": "2026-11-13T08:54:10.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
