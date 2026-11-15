@@ -15,11 +15,11 @@
             "id": 1209966933,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T08:06:41Z",
-            "open_issues": 1701,
+            "last_commit": "2026-11-15T08:38:05Z",
+            "open_issues": 1636,
             "owner": "morluto",
             "repo": "rea",
-            "stars": 458307,
+            "stars": 460562,
             "topics": [
               "agent-skills",
               "ai",
@@ -58,10 +58,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-12T21:17:43Z",
-            "open_issues": 585,
+            "open_issues": 586,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23765,
+            "stars": 23767,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -118,7 +118,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3241,
+            "stars": 3242,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -305,7 +305,7 @@
             "open_issues": 6,
             "owner": "Lennolium",
             "repo": "swiftGuard",
-            "stars": 474,
+            "stars": 475,
             "topics": [
               "anti-forensics",
               "defensive-security",
@@ -330,11 +330,11 @@
             "id": 385891121,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T09:40:37Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-14T13:00:01Z",
+            "open_issues": 8,
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
-            "stars": 464,
+            "stars": 465,
             "topics": [
               "endpoint-security",
               "macos",
@@ -462,7 +462,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-13T12:17:30Z",
+            "last_commit": "2026-11-14T11:33:12Z",
             "open_issues": 2,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -883,7 +883,7 @@
                 "open_issues": 851,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8346,
+                "stars": 8349,
                 "topics": [
                   "c",
                   "ios",
@@ -1058,7 +1058,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T08:18:52.604Z",
+    "last_updated": "2026-11-15T08:38:07.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
@@ -1070,7 +1070,7 @@
       "open_issues": 0,
       "owner": "ashishb",
       "repo": "osx-and-ios-security-awesome",
-      "stars": 1774,
+      "stars": 1776,
       "topics": [
         "awesome",
         "awesome-list",
