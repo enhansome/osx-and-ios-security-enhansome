@@ -15,11 +15,11 @@
             "id": 1209966933,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T08:46:48Z",
-            "open_issues": 1508,
+            "last_commit": "2026-11-17T09:27:10Z",
+            "open_issues": 1550,
             "owner": "morluto",
             "repo": "rea",
-            "stars": 462726,
+            "stars": 465047,
             "topics": [
               "agent-skills",
               "ai",
@@ -58,10 +58,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-12T21:17:43Z",
-            "open_issues": 588,
+            "open_issues": 594,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23770,
+            "stars": 23776,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -118,7 +118,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3243,
+            "stars": 3245,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -211,7 +211,7 @@
             "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1101,
+            "stars": 1102,
             "topics": [
               "dfir",
               "forensics",
@@ -236,7 +236,7 @@
             "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1101,
+            "stars": 1102,
             "topics": [
               "dfir",
               "forensics",
@@ -261,7 +261,7 @@
             "open_issues": 15,
             "owner": "rentzsch",
             "repo": "mach_inject",
-            "stars": 831,
+            "stars": 832,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -330,11 +330,11 @@
             "id": 385891121,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T13:00:01Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-17T08:24:19Z",
+            "open_issues": 5,
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
-            "stars": 466,
+            "stars": 467,
             "topics": [
               "endpoint-security",
               "macos",
@@ -449,6 +449,48 @@
             ]
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MacOSCleaner",
+          "description": "Free Apple Silicon app with a Privacy Inspector (TCC permissions viewer and reset, active network connections, browser extension permission risks) and a code-signature check for launch agents and login items. Source-available (GPLv3 + Commons Clause).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free CleanMyMac alternative for Apple Silicon (macOS 26+). Native SwiftUI cleaner, uninstaller, Privacy Inspector (TCC, network, browser extensions), disk analyzer, duplicates, Xcode/Docker/AI cache cleanup. Review before delete, Trash by default, no telemetry. Source-available (GPLv3 + Commons Clause).",
+            "homepage": "https://alextkdev.github.io/MacOSCleaner/",
+            "id": 1241521746,
+            "language": "Swift",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-16T18:58:04Z",
+            "open_issues": 1,
+            "owner": "AlexTkDev",
+            "repo": "MacOSCleaner",
+            "stars": 136,
+            "topics": [
+              "app-uninstaller",
+              "apple-silicon",
+              "cache-cleaner",
+              "cleaner-app",
+              "cleanmymac-alternative",
+              "cleanup-tool",
+              "docker-clean",
+              "mac-cleaner",
+              "macos",
+              "macos-application",
+              "macos-cleaner",
+              "privacy-tools",
+              "source-available",
+              "swift",
+              "swiftui",
+              "system-cleaning",
+              "system-cleanup",
+              "uninstaller-tools",
+              "utilities",
+              "xcode-cleanup"
+            ]
+          },
+          "first_seen": "2026-11-17T09:54:02.154Z"
         },
         {
           "node_type": "item",
@@ -680,6 +722,38 @@
             ]
           },
           "first_seen": "2026-09-16T06:59:38.142Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SecretBar",
+          "description": "Command line tool and menu bar app that stores secrets in the Secure Enclave, reads them with Touch ID and injects them into one process environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Secrets your AI agent uses but never sees. Secure Enclave store, command line tool and menu bar app for macOS.",
+            "homepage": "https://secretbar.github.io",
+            "id": 1429609068,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-11-14T20:47:42Z",
+            "open_issues": 0,
+            "owner": "secretbar",
+            "repo": "secretbar",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "claude-code",
+              "cli",
+              "keychain",
+              "macos",
+              "menu-bar-app",
+              "post-quantum",
+              "secrets",
+              "secure-enclave",
+              "touch-id"
+            ]
+          },
+          "first_seen": "2026-11-17T09:54:02.154Z"
         }
       ],
       "title": "macOS Security"
@@ -705,7 +779,7 @@
                 "open_issues": 9,
                 "owner": "prateek147",
                 "repo": "DVIA-v2",
-                "stars": 1134,
+                "stars": 1135,
                 "topics": [
                   "ios-swift",
                   "jailbreak",
@@ -853,7 +927,7 @@
                 "open_issues": 56,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9512,
+                "stars": 9517,
                 "topics": [
                   "android",
                   "framework",
@@ -879,11 +953,11 @@
                 "id": 8180677,
                 "language": "C",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-06-10T07:52:18Z",
+                "last_commit": "2026-11-17T03:20:12Z",
                 "open_issues": 850,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8350,
+                "stars": 8351,
                 "topics": [
                   "c",
                   "ios",
@@ -1058,7 +1132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T08:46:56.701Z",
+    "last_updated": "2026-11-17T09:54:02.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
@@ -1066,7 +1140,7 @@
       "id": 29182759,
       "language": "Shell",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-31T20:00:14Z",
+      "last_commit": "2026-11-17T04:52:06Z",
       "open_issues": 1,
       "owner": "ashishb",
       "repo": "osx-and-ios-security-awesome",
@@ -1081,7 +1155,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "7d632633447eefd49d7b9cf745a1bf0ccaac99ed",
+    "original_repository_sha": "5cb5178d083fb5f09d0e13db15d2c543df83a7ca",
     "enhanced_repository": "enhansome/osx-and-ios-security-enhansome",
     "enhanced_repository_description": null,
     "title": "Awesome macOS and iOS Security Related Tools with stars"
