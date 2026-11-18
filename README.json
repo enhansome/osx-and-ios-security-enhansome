@@ -15,11 +15,11 @@
             "id": 1209966933,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T09:27:10Z",
-            "open_issues": 1550,
+            "last_commit": "2026-11-18T09:12:22Z",
+            "open_issues": 1567,
             "owner": "morluto",
             "repo": "rea",
-            "stars": 465047,
+            "stars": 467129,
             "topics": [
               "agent-skills",
               "ai",
@@ -57,11 +57,11 @@
             "id": 22394357,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T21:17:43Z",
-            "open_issues": 594,
+            "last_commit": "2026-11-18T04:03:30Z",
+            "open_issues": 596,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23776,
+            "stars": 23779,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -118,7 +118,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3245,
+            "stars": 3246,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -211,7 +211,7 @@
             "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1102,
+            "stars": 1103,
             "topics": [
               "dfir",
               "forensics",
@@ -236,7 +236,7 @@
             "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1102,
+            "stars": 1103,
             "topics": [
               "dfir",
               "forensics",
@@ -330,7 +330,7 @@
             "id": 385891121,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T08:24:19Z",
+            "last_commit": "2026-11-17T15:43:52Z",
             "open_issues": 5,
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
@@ -424,7 +424,7 @@
             "open_issues": 10,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 180,
+            "stars": 183,
             "topics": [
               "ai-agents",
               "amphetamine-alternative",
@@ -462,11 +462,11 @@
             "id": 1241521746,
             "language": "Swift",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T18:58:04Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-18T08:46:59Z",
+            "open_issues": 0,
             "owner": "AlexTkDev",
             "repo": "MacOSCleaner",
-            "stars": 136,
+            "stars": 139,
             "topics": [
               "app-uninstaller",
               "apple-silicon",
@@ -504,7 +504,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-15T11:59:11Z",
+            "last_commit": "2026-11-17T13:32:00Z",
             "open_issues": 2,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -739,7 +739,7 @@
             "open_issues": 0,
             "owner": "secretbar",
             "repo": "secretbar",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -849,7 +849,7 @@
                 "open_issues": 0,
                 "owner": "cpeoples",
                 "repo": "dvma",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "agentic-ai",
                   "ai-security",
@@ -927,7 +927,7 @@
                 "open_issues": 56,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9517,
+                "stars": 9519,
                 "topics": [
                   "android",
                   "framework",
@@ -953,11 +953,11 @@
                 "id": 8180677,
                 "language": "C",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-17T03:20:12Z",
+                "last_commit": "2026-11-18T00:29:27Z",
                 "open_issues": 850,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8351,
+                "stars": 8353,
                 "topics": [
                   "c",
                   "ios",
@@ -1132,7 +1132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T09:54:02.154Z",
+    "last_updated": "2026-11-18T09:28:53.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
