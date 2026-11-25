@@ -15,11 +15,11 @@
             "id": 1209966933,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T11:48:15Z",
-            "open_issues": 1167,
+            "last_commit": "2026-11-25T10:40:02Z",
+            "open_issues": 1182,
             "owner": "morluto",
             "repo": "rea",
-            "stars": 476354,
+            "stars": 477770,
             "topics": [
               "agent-skills",
               "ai",
@@ -57,11 +57,11 @@
             "id": 22394357,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T03:26:45Z",
-            "open_issues": 508,
+            "last_commit": "2026-11-24T18:08:09Z",
+            "open_issues": 504,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23797,
+            "stars": 23800,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -118,7 +118,7 @@
             "open_issues": 14,
             "owner": "LaurieWired",
             "repo": "Malimite",
-            "stars": 3252,
+            "stars": 3253,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:29.287Z"
@@ -305,7 +305,7 @@
             "open_issues": 6,
             "owner": "Lennolium",
             "repo": "swiftGuard",
-            "stars": 476,
+            "stars": 477,
             "topics": [
               "anti-forensics",
               "defensive-security",
@@ -330,11 +330,11 @@
             "id": 385891121,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-24T09:51:03Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-25T06:03:01Z",
+            "open_issues": 5,
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
-            "stars": 468,
+            "stars": 469,
             "topics": [
               "endpoint-security",
               "macos",
@@ -466,7 +466,7 @@
             "open_issues": 1,
             "owner": "AlexTkDev",
             "repo": "MacOSCleaner",
-            "stars": 160,
+            "stars": 161,
             "topics": [
               "app-uninstaller",
               "apple-silicon",
@@ -504,7 +504,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-23T14:46:32Z",
+            "last_commit": "2026-11-24T14:55:58Z",
             "open_issues": 2,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -698,7 +698,7 @@
             "open_issues": 0,
             "owner": "jankesec",
             "repo": "macharden",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "audit",
               "bash",
@@ -779,7 +779,7 @@
                 "open_issues": 9,
                 "owner": "prateek147",
                 "repo": "DVIA-v2",
-                "stars": 1135,
+                "stars": 1136,
                 "topics": [
                   "ios-swift",
                   "jailbreak",
@@ -927,7 +927,7 @@
                 "open_issues": 58,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9534,
+                "stars": 9537,
                 "topics": [
                   "android",
                   "framework",
@@ -957,7 +957,7 @@
                 "open_issues": 849,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8376,
+                "stars": 8378,
                 "topics": [
                   "c",
                   "ios",
@@ -1082,6 +1082,38 @@
             },
             {
               "node_type": "item",
+              "title": "rasp",
+              "description": "Open-source RASP runtime that protects a built IPA without source changes: jailbreak, debugger, Frida and hook, simulator and app-virtualizer checks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Runtime application self-protection (RASP) for Android and iOS apps. Protects a built APK,AAB or IPA without source code changes.",
+                "homepage": null,
+                "id": 1389448582,
+                "language": "C++",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-24T16:58:16Z",
+                "open_issues": 12,
+                "owner": "Ostorlab",
+                "repo": "rasp",
+                "stars": 10,
+                "topics": [
+                  "android",
+                  "android-security",
+                  "anti-tampering",
+                  "frida",
+                  "ios",
+                  "ios-security",
+                  "jailbreak-detection",
+                  "mobile-security",
+                  "rasp",
+                  "root-detection"
+                ]
+              },
+              "first_seen": "2026-11-25T10:41:36.206Z"
+            },
+            {
+              "node_type": "item",
               "title": "lazyios",
               "description": "Terminal UI that captures an iPhone's traffic over USB and maps each connection to its app, domain and tracker company, plus a basic device check (passcode, Developer Mode, profiles). No jailbreak",
               "children": [],
@@ -1132,7 +1164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T11:49:20.072Z",
+    "last_updated": "2026-11-25T10:41:36.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "OSX and iOS related security tools",
@@ -1140,8 +1172,8 @@
       "id": 29182759,
       "language": "Shell",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-17T04:52:06Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-24T22:57:36Z",
+      "open_issues": 1,
       "owner": "ashishb",
       "repo": "osx-and-ios-security-awesome",
       "stars": 1782,
@@ -1155,7 +1187,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "5cb5178d083fb5f09d0e13db15d2c543df83a7ca",
+    "original_repository_sha": "2e5393cbc52924e52d158664030e19a0b88ac2a4",
     "enhanced_repository": "enhansome/osx-and-ios-security-enhansome",
     "enhanced_repository_description": null,
     "title": "Awesome macOS and iOS Security Related Tools with stars"
