@@ -19,25 +19,25 @@
 
 ## macOS Security
 
-1. [REA](https://github.com/morluto/rea) ⭐ 479,016 | 🐛 1,193 | 🌐 TypeScript | 📅 2026-11-26 - Local CLI and MCP tools for agent-assisted inspection of macOS application bundles, Mach-O binaries, and Electron apps, with evidence provenance; native deep analysis uses separately installed Hopper, Ghidra, or IDA.
-2. [osquery](https://github.com/facebook/osquery) ⭐ 23,804 | 🐛 498 | 🌐 C++ | 📅 2026-11-25 - Cross-platform tool for data collection and forensic analysis.
+1. [REA](https://github.com/morluto/rea) ⭐ 480,398 | 🐛 1,125 | 🌐 TypeScript | 📅 2026-11-27 - Local CLI and MCP tools for agent-assisted inspection of macOS application bundles, Mach-O binaries, and Electron apps, with evidence provenance; native deep analysis uses separately installed Hopper, Ghidra, or IDA.
+2. [osquery](https://github.com/facebook/osquery) ⭐ 23,806 | 🐛 501 | 🌐 C++ | 📅 2026-11-25 - Cross-platform tool for data collection and forensic analysis.
 3. [Santa](https://github.com/google/santa) ⚠️ Archived - Binary whitelisting/blacklisting system.
-4. [Malimite](https://github.com/LaurieWired/Malimite) ⭐ 3,253 | 🐛 14 | 🌐 Java | 📅 2025-08-26 - iOS and macOS Decompiler
+4. [Malimite](https://github.com/LaurieWired/Malimite) ⭐ 3,254 | 🐛 14 | 🌐 Java | 📅 2025-08-26 - iOS and macOS Decompiler
 5. [OSX auditor](https://github.com/jipegit/OSXAuditor) ⭐ 3,129 | 🐛 9 | 🌐 JavaScript | 📅 2020-07-27 - Forensic analysis.
 6. [OSX collector](https://github.com/Yelp/OSXCollector) ⚠️ Archived - Forensic analysis.
 7. [stronghold](https://github.com/alichtman/stronghold) ⭐ 1,193 | 🐛 11 | 🌐 Python | 📅 2026-11-10 - Easily configure macOS security settings from the terminal.
-8. [mac\_apt](https://github.com/ydkhatri/mac_apt) ⭐ 1,107 | 🐛 8 | 🌐 Python | 📅 2026-11-09 - macOS Artifact Parsing Tool for forensic analysis.
-9. [macOS (& iOS) Artifact Parsing Tool](https://github.com/ydkhatri/mac_apt) ⭐ 1,107 | 🐛 8 | 🌐 Python | 📅 2026-11-09 - mac\_apt is a DFIR (Digital Forensics and Incident Response) tool to process Mac computer full disk images (or live machines) and extract data/metadata useful for forensic investigation.
+8. [mac\_apt](https://github.com/ydkhatri/mac_apt) ⭐ 1,109 | 🐛 8 | 🌐 Python | 📅 2026-11-09 - macOS Artifact Parsing Tool for forensic analysis.
+9. [macOS (& iOS) Artifact Parsing Tool](https://github.com/ydkhatri/mac_apt) ⭐ 1,109 | 🐛 8 | 🌐 Python | 📅 2026-11-09 - mac\_apt is a DFIR (Digital Forensics and Incident Response) tool to process Mac computer full disk images (or live machines) and extract data/metadata useful for forensic investigation.
 10. [Mach inject](https://github.com/rentzsch/mach_inject) ⭐ 831 | 🐛 15 | 🌐 C | 📅 2016-11-08 - Inter process code injection for macOS.
 11. ~~[MIDAS](https://github.com/etsy/MIDAS) ⚠️ Archived - macOS Intrusion Detection Analysis System.~~ Abandoned.
 12. [swiftGuard](https://github.com/Lennolium/swiftGuard) ⭐ 477 | 🐛 6 | 🌐 Python | 📅 2025-02-10 - A lightweight app that safeguards your System's USB Ports from any Unauthorized Access and performs various countermeasures.
-13. [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) ⭐ 469 | 🐛 5 | 🌐 Swift | 📅 2026-11-25 - A MenuBar app to automatically audit your Mac for basic security hygiene.
+13. [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) ⭐ 469 | 🐛 5 | 🌐 Swift | 📅 2026-11-26 - A MenuBar app to automatically audit your Mac for basic security hygiene.
 14. [Crashwalk](https://github.com/bnagy/crashwalk) ⭐ 364 | 🐛 10 | 🌐 Go | 📅 2024-10-19 - Bucket and triage on-disk crashes
 15. [Mac4n6](https://github.com/pstirparo/mac4n6) ⭐ 346 | 🐛 0 | 🌐 Python | 📅 2021-11-11 - A collection of macOS and iOS forensic artifacts.
 16. [PassiveFuzzFrameworks](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX) ⭐ 229 | 🐛 1 | 🌐 C | 📅 2017-10-18
 17. [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 188 | 🐛 10 | 🌐 Swift | 📅 2026-11-12 - macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
-18. [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) ⭐ 162 | 🐛 1 | 🌐 Swift | 📅 2026-11-25 - Free Apple Silicon app with a Privacy Inspector (TCC permissions viewer and reset, active network connections, browser extension permission risks) and a code-signature check for launch agents and login items. Source-available (GPLv3 + Commons Clause).
-19. [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 131 | 🐛 2 | 🌐 Shell | 📅 2026-11-25 - CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
+18. [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) ⭐ 163 | 🐛 1 | 🌐 Swift | 📅 2026-11-25 - Free Apple Silicon app with a Privacy Inspector (TCC permissions viewer and reset, active network connections, browser extension permission risks) and a code-signature check for launch agents and login items. Source-available (GPLv3 + Commons Clause).
+19. [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 131 | 🐛 2 | 🌐 Shell | 📅 2026-11-26 - CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 20. [Masochist](https://github.com/squiffy/Masochist) ⚠️ Archived - Framework for creating XNU-based rootkits.
 21. [fort](https://github.com/djadmin/fort) ⭐ 82 | 🐛 0 | 🌐 Go | 📅 2026-07-09 - CLI to audit, fix, and prove macOS endpoint security. 15 checks, auto-remediation, SOC 2 evidence report. Single binary, no agent.
 22. [Task vaccine](https://github.com/rodionovd/task_vaccine) ⭐ 55 | 🐛 4 | 🌐 C | 📅 2015-03-02 - Similar to mach inject.
@@ -77,10 +77,10 @@ A collection of iOS security-related resources
 
 ### iOS Security Tools
 
-1. [objection](https://github.com/sensepost/objection) ⭐ 9,537 | 🐛 58 | 🌐 Python | 📅 2026-10-27 - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak
-2. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,382 | 🐛 849 | 🌐 C | 📅 2026-11-25 - A cross-platform protocol library to communicate with iOS devices
+1. [objection](https://github.com/sensepost/objection) ⭐ 9,541 | 🐛 58 | 🌐 Python | 📅 2026-10-27 - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak
+2. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,386 | 🐛 849 | 🌐 C | 📅 2026-11-25 - A cross-platform protocol library to communicate with iOS devices
 3. [Themis](https://github.com/cossacklabs/themis) ⭐ 1,984 | 🐛 31 | 🌐 C | 📅 2026-04-24 - a multi-platform programming library for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Recommended by OWASP MASVS.
-4. ~~[Needle](https://github.com/mwrlabs/needle) ⚠️ Archived - iOS App Pentesting Tool.~~ Abandoned in 2025. The devs recommend using [objection](https://github.com/sensepost/objection) ⭐ 9,537 | 🐛 58 | 🌐 Python | 📅 2026-10-27 instead
+4. ~~[Needle](https://github.com/mwrlabs/needle) ⚠️ Archived - iOS App Pentesting Tool.~~ Abandoned in 2025. The devs recommend using [objection](https://github.com/sensepost/objection) ⭐ 9,541 | 🐛 58 | 🌐 Python | 📅 2026-10-27 instead
 5. [iMessage Fuzzing](https://github.com/googleprojectzero/iOS-messaging-tools) ⚠️ Archived - iMessage fuzzing tools from Google's Project Zero
 6. [imobax](https://github.com/Siguza/imobax) ⭐ 203 | 🐛 2 | 🌐 C | 📅 2022-05-28 - iOS Mobile Backup Extractor
 7. [rasp](https://github.com/Ostorlab/rasp) ⭐ 10 | 🐛 9 | 🌐 C++ | 📅 2026-11-26 - Open-source RASP runtime that protects a built IPA without source changes: jailbreak, debugger, Frida and hook, simulator and app-virtualizer checks
@@ -113,4 +113,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
